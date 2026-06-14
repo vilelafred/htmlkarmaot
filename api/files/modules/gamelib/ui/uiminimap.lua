@@ -63,7 +63,7 @@ function UIMinimap:load()
         self:addFlag(flag.position, flag.icon, flag.description)
       end
     end
-    self:setZoom(settings.zoom)
+	scheduleEvent(function() self:setZoom(settings.zoom) end, 1000)
   end
 end
 

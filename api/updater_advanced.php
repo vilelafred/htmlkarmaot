@@ -1,7 +1,7 @@
 <?php
 // CONFIG
 $files_dir = "/var/www/html/api/files";
-$files_url = "/api/files";
+$files_url = "http://72.62.11.29:8088/api/files";
 $files_and_dirs = array("init.lua", "data", "modules", "layouts");
 $checksum_file = "checksums.txt";
 $checksum_update_interval = 60; // seconds
