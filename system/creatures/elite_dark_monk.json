@@ -1,0 +1,74 @@
+{
+    "name": "Elite Dark Monk",
+    "lookType": 225,
+    "experience": 145,
+    "image": "225.png",
+    "loot": [
+        {
+            "itemid": 2689,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "2689.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 27000,
+            "countmax": 18,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2177,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2177.png"
+        },
+        {
+            "itemid": 2193,
+            "chance": 180,
+            "countmax": 1,
+            "image": "2193.png"
+        },
+        {
+            "itemid": 2015,
+            "chance": 16200,
+            "countmax": 1,
+            "image": "2015.png"
+        },
+        {
+            "itemid": 1949,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "1949.png"
+        },
+        {
+            "itemid": 2467,
+            "chance": 9900,
+            "countmax": 1,
+            "image": "2467.png"
+        },
+        {
+            "itemid": 2642,
+            "chance": 14400,
+            "countmax": 1,
+            "image": "2642.png"
+        },
+        {
+            "itemid": 2044,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2044.png"
+        },
+        {
+            "itemid": 2401,
+            "chance": 19800,
+            "countmax": 1,
+            "image": "2401.png"
+        },
+        {
+            "itemid": 2166,
+            "chance": 180,
+            "countmax": 1,
+            "image": "2166.png"
+        }
+    ]
+}

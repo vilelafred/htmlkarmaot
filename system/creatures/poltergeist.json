@@ -1,0 +1,32 @@
+{
+    "name": "poltergeist",
+    "lookType": 363,
+    "experience": 9120,
+    "image": "363.png",
+    "loot": [
+        {
+            "itemid": 2654,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2654.png"
+        },
+        {
+            "itemid": 2804,
+            "chance": 15000,
+            "countmax": 1,
+            "image": "2804.png"
+        },
+        {
+            "itemid": 2642,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2642.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

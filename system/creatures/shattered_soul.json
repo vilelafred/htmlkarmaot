@@ -1,0 +1,44 @@
+{
+    "name": "shattered soul",
+    "lookType": 251,
+    "experience": 875,
+    "image": "251.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 25000,
+            "countmax": 90,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2143,
+            "chance": 2000,
+            "countmax": 2,
+            "image": "2143.png"
+        },
+        {
+            "itemid": 2144,
+            "chance": 4000,
+            "countmax": 2,
+            "image": "2144.png"
+        },
+        {
+            "itemid": 2383,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "2383.png"
+        },
+        {
+            "itemid": 2409,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2409.png"
+        },
+        {
+            "itemid": 2656,
+            "chance": 800,
+            "countmax": 1,
+            "image": "2656.png"
+        }
+    ]
+}

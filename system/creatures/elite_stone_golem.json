@@ -1,0 +1,62 @@
+{
+    "name": "Elite Stone Golem",
+    "lookType": 67,
+    "experience": 160,
+    "image": "67.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 19200,
+            "countmax": 45,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 1294,
+            "chance": 15600,
+            "countmax": 10,
+            "image": "1294.png"
+        },
+        {
+            "itemid": 2156,
+            "chance": 840,
+            "countmax": 1,
+            "image": "2156.png"
+        },
+        {
+            "itemid": 2483,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2483.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 66000,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2395,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2395.png"
+        },
+        {
+            "itemid": 2509,
+            "chance": 2400,
+            "countmax": 1,
+            "image": "2509.png"
+        },
+        {
+            "itemid": 2166,
+            "chance": 2400,
+            "countmax": 1,
+            "image": "2166.png"
+        },
+        {
+            "itemid": 2124,
+            "chance": 240,
+            "countmax": 1,
+            "image": "2124.png"
+        }
+    ]
+}

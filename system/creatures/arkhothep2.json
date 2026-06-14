@@ -1,0 +1,62 @@
+{
+    "name": "Arkhothep2",
+    "lookType": 551,
+    "experience": 3100,
+    "image": "551.png",
+    "loot": [
+        {
+            "itemid": 2164,
+            "chance": 5450,
+            "countmax": 1,
+            "image": "2164.png"
+        },
+        {
+            "itemid": 2134,
+            "chance": 4625,
+            "countmax": 1,
+            "image": "2134.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 35100,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 35100,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 35100,
+            "countmax": 43,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

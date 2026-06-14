@@ -1,0 +1,80 @@
+{
+    "name": "Dwarf Soldier",
+    "lookType": 71,
+    "experience": 70,
+    "image": "71.png",
+    "loot": [
+        {
+            "itemid": 2787,
+            "chance": 40000,
+            "countmax": 2,
+            "image": "2787.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 35000,
+            "countmax": 12,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2543,
+            "chance": 40000,
+            "countmax": 4,
+            "image": "2543.png"
+        },
+        {
+            "itemid": 2554,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2554.png"
+        },
+        {
+            "itemid": 2464,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2464.png"
+        },
+        {
+            "itemid": 2481,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2481.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2378,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2378.png"
+        },
+        {
+            "itemid": 2525,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2525.png"
+        },
+        {
+            "itemid": 2455,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2455.png"
+        },
+        {
+            "itemid": 2208,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2208.png"
+        }
+    ]
+}

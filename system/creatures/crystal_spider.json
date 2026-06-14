@@ -1,0 +1,32 @@
+{
+    "name": "Crystal Spider",
+    "lookType": 718,
+    "experience": 900,
+    "image": "718.png",
+    "loot": [
+        {
+            "itemid": 2124,
+            "chance": 1560,
+            "countmax": 1,
+            "image": "2124.png"
+        },
+        {
+            "itemid": 2169,
+            "chance": 1480,
+            "countmax": 1,
+            "image": "2169.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

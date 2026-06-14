@@ -1,0 +1,26 @@
+{
+    "name": "Bear",
+    "lookType": 16,
+    "experience": 23,
+    "image": "16.png",
+    "loot": [
+        {
+            "itemid": 3976,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "3976.png"
+        },
+        {
+            "itemid": 2671,
+            "chance": 40000,
+            "countmax": 2,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 70000,
+            "countmax": 4,
+            "image": "2666.png"
+        }
+    ]
+}

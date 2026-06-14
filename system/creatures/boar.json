@@ -1,0 +1,26 @@
+{
+    "name": "boar",
+    "lookType": 199,
+    "experience": 60,
+    "image": "199.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 25000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 60000,
+            "countmax": 3,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2671,
+            "chance": 20000,
+            "countmax": 5,
+            "image": "2671.png"
+        }
+    ]
+}

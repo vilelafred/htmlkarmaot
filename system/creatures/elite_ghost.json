@@ -1,0 +1,56 @@
+{
+    "name": "Elite Ghost",
+    "lookType": 48,
+    "experience": 120,
+    "image": "48.png",
+    "loot": [
+        {
+            "itemid": 2654,
+            "chance": 16200,
+            "countmax": 1,
+            "image": "2654.png"
+        },
+        {
+            "itemid": 2804,
+            "chance": 27000,
+            "countmax": 1,
+            "image": "2804.png"
+        },
+        {
+            "itemid": 2642,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "2642.png"
+        },
+        {
+            "itemid": 2404,
+            "chance": 12600,
+            "countmax": 1,
+            "image": "2404.png"
+        },
+        {
+            "itemid": 2394,
+            "chance": 19800,
+            "countmax": 1,
+            "image": "2394.png"
+        },
+        {
+            "itemid": 2532,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "2532.png"
+        },
+        {
+            "itemid": 1977,
+            "chance": 2700,
+            "countmax": 1,
+            "image": "1977.png"
+        },
+        {
+            "itemid": 2165,
+            "chance": 360,
+            "countmax": 1,
+            "image": "2165.png"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Elite Ice Golem",
+    "lookType": 717,
+    "experience": 295,
+    "image": "717.png",
+    "loot": [
+        {
+            "itemid": 8176,
+            "chance": 60000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 60000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 60000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

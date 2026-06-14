@@ -1,0 +1,80 @@
+{
+    "name": "Elite Monk",
+    "lookType": 57,
+    "experience": 200,
+    "image": "57.png",
+    "loot": [
+        {
+            "itemid": 2689,
+            "chance": 24000,
+            "countmax": 1,
+            "image": "2689.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 18000,
+            "countmax": 50,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2193,
+            "chance": 840,
+            "countmax": 1,
+            "image": "2193.png"
+        },
+        {
+            "itemid": 2177,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2177.png"
+        },
+        {
+            "itemid": 1949,
+            "chance": 24000,
+            "countmax": 1,
+            "image": "1949.png"
+        },
+        {
+            "itemid": 2015,
+            "chance": 10800,
+            "countmax": 1,
+            "image": "2015.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 15600,
+            "countmax": 1,
+            "image": "1987.png"
+        },
+        {
+            "itemid": 2467,
+            "chance": 6600,
+            "countmax": 1,
+            "image": "2467.png"
+        },
+        {
+            "itemid": 2642,
+            "chance": 9600,
+            "countmax": 1,
+            "image": "2642.png"
+        },
+        {
+            "itemid": 2044,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2044.png"
+        },
+        {
+            "itemid": 2401,
+            "chance": 13200,
+            "countmax": 1,
+            "image": "2401.png"
+        },
+        {
+            "itemid": 2166,
+            "chance": 120,
+            "countmax": 1,
+            "image": "2166.png"
+        }
+    ]
+}

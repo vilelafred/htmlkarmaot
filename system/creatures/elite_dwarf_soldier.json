@@ -1,0 +1,68 @@
+{
+    "name": "Elite Dwarf Soldier",
+    "lookType": 71,
+    "experience": 70,
+    "image": "71.png",
+    "loot": [
+        {
+            "itemid": 2787,
+            "chance": 72000,
+            "countmax": 2,
+            "image": "2787.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 63000,
+            "countmax": 12,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2543,
+            "chance": 72000,
+            "countmax": 4,
+            "image": "2543.png"
+        },
+        {
+            "itemid": 2554,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2554.png"
+        },
+        {
+            "itemid": 2464,
+            "chance": 5400,
+            "countmax": 1,
+            "image": "2464.png"
+        },
+        {
+            "itemid": 2481,
+            "chance": 21600,
+            "countmax": 1,
+            "image": "2481.png"
+        },
+        {
+            "itemid": 2378,
+            "chance": 2700,
+            "countmax": 1,
+            "image": "2378.png"
+        },
+        {
+            "itemid": 2525,
+            "chance": 2700,
+            "countmax": 1,
+            "image": "2525.png"
+        },
+        {
+            "itemid": 2455,
+            "chance": 2700,
+            "countmax": 1,
+            "image": "2455.png"
+        },
+        {
+            "itemid": 2208,
+            "chance": 180,
+            "countmax": 1,
+            "image": "2208.png"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Elite Minotaur",
+    "lookType": 25,
+    "experience": 50,
+    "image": "25.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 66000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 30000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2554,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2554.png"
+        },
+        {
+            "itemid": 2460,
+            "chance": 2400,
+            "countmax": 1,
+            "image": "2460.png"
+        },
+        {
+            "itemid": 2458,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2458.png"
+        },
+        {
+            "itemid": 2649,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2649.png"
+        },
+        {
+            "itemid": 2464,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2464.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 66000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2386,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2386.png"
+        },
+        {
+            "itemid": 2376,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2376.png"
+        },
+        {
+            "itemid": 2398,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2398.png"
+        },
+        {
+            "itemid": 2510,
+            "chance": 2400,
+            "countmax": 1,
+            "image": "2510.png"
+        },
+        {
+            "itemid": 2172,
+            "chance": 840,
+            "countmax": 1,
+            "image": "2172.png"
+        }
+    ]
+}

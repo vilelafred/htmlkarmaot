@@ -1,0 +1,38 @@
+{
+    "name": "Elite Spit Nettle",
+    "lookType": 221,
+    "experience": 20,
+    "image": "221.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 12000,
+            "countmax": 5,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2747,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2747.png"
+        },
+        {
+            "itemid": 2802,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2802.png"
+        },
+        {
+            "itemid": 2802,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2802.png"
+        },
+        {
+            "itemid": 2804,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2804.png"
+        }
+    ]
+}

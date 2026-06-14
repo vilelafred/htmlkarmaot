@@ -1,0 +1,56 @@
+{
+    "name": "Elite Necromancer",
+    "lookType": 9,
+    "experience": 580,
+    "image": "9.png",
+    "loot": [
+        {
+            "itemid": 2796,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2796.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 36000,
+            "countmax": 90,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2663,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2663.png"
+        },
+        {
+            "itemid": 2483,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2483.png"
+        },
+        {
+            "itemid": 2195,
+            "chance": 816,
+            "countmax": 1,
+            "image": "2195.png"
+        },
+        {
+            "itemid": 2436,
+            "chance": 1680,
+            "countmax": 1,
+            "image": "2436.png"
+        },
+        {
+            "itemid": 2423,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2423.png"
+        },
+        {
+            "itemid": 2406,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2406.png"
+        }
+    ]
+}

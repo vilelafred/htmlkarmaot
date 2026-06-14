@@ -1,0 +1,32 @@
+{
+    "name": "Elite Island Troll",
+    "lookType": 282,
+    "experience": 20,
+    "image": "282.png",
+    "loot": [
+        {
+            "itemid": 2120,
+            "chance": 9600,
+            "countmax": 1,
+            "image": "2120.png"
+        },
+        {
+            "itemid": 2512,
+            "chance": 19200,
+            "countmax": 1,
+            "image": "2512.png"
+        },
+        {
+            "itemid": 5097,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "5097.png"
+        },
+        {
+            "itemid": 5901,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "5901.png"
+        }
+    ]
+}

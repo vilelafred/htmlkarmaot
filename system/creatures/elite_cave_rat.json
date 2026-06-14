@@ -1,0 +1,32 @@
+{
+    "name": "Elite Cave Rat",
+    "lookType": 56,
+    "experience": 10,
+    "image": "56.png",
+    "loot": [
+        {
+            "itemid": 3976,
+            "chance": 80000,
+            "countmax": 3,
+            "image": "3976.png"
+        },
+        {
+            "itemid": 2687,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2687.png"
+        },
+        {
+            "itemid": 2696,
+            "chance": 54000,
+            "countmax": 1,
+            "image": "2696.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 2,
+            "image": "2148.png"
+        }
+    ]
+}

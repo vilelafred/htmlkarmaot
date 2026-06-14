@@ -1,0 +1,62 @@
+{
+    "name": "Elite Stalker",
+    "lookType": 128,
+    "experience": 90,
+    "image": "128.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 15600,
+            "countmax": 45,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2410,
+            "chance": 13200,
+            "countmax": 2,
+            "image": "2410.png"
+        },
+        {
+            "itemid": 2260,
+            "chance": 10800,
+            "countmax": 1,
+            "image": "2260.png"
+        },
+        {
+            "itemid": 1998,
+            "chance": 5400,
+            "countmax": 1,
+            "image": "1998.png"
+        },
+        {
+            "itemid": 2649,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2649.png"
+        },
+        {
+            "itemid": 2478,
+            "chance": 8400,
+            "countmax": 1,
+            "image": "2478.png"
+        },
+        {
+            "itemid": 2412,
+            "chance": 7200,
+            "countmax": 1,
+            "image": "2412.png"
+        },
+        {
+            "itemid": 2425,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "2425.png"
+        },
+        {
+            "itemid": 2511,
+            "chance": 6600,
+            "countmax": 1,
+            "image": "2511.png"
+        }
+    ]
+}

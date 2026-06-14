@@ -1,0 +1,74 @@
+{
+    "name": "Dreadfiend",
+    "lookType": 287,
+    "experience": 10000,
+    "image": "287.png",
+    "loot": [
+        {
+            "itemid": 6774,
+            "chance": 10300,
+            "countmax": 1,
+            "image": "6774.png"
+        },
+        {
+            "itemid": 6158,
+            "chance": 99090,
+            "countmax": 1,
+            "image": "6158.png"
+        },
+        {
+            "itemid": 2152,
+            "chance": 66600,
+            "countmax": 100,
+            "image": "2152.png"
+        },
+        {
+            "itemid": 6180,
+            "chance": 4000,
+            "countmax": 1,
+            "image": "6180.png"
+        },
+        {
+            "itemid": 6179,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "6179.png"
+        },
+        {
+            "itemid": 6173,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "6173.png"
+        },
+        {
+            "itemid": 5781,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "5781.png"
+        },
+        {
+            "itemid": 6692,
+            "chance": 500,
+            "countmax": 1,
+            "image": "6692.png"
+        },
+        {
+            "itemid": 2171,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2171.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 100,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 5937,
+            "chance": 90,
+            "countmax": 2,
+            "image": "5937.png"
+        }
+    ]
+}

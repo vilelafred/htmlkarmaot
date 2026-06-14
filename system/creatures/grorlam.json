@@ -1,0 +1,86 @@
+{
+    "name": "Grorlam",
+    "lookType": 205,
+    "experience": 290,
+    "image": "205.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 16000,
+            "countmax": 15,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2150,
+            "chance": 6500,
+            "countmax": 2,
+            "image": "2150.png"
+        },
+        {
+            "itemid": 2156,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2156.png"
+        },
+        {
+            "itemid": 1294,
+            "chance": 13000,
+            "countmax": 4,
+            "image": "1294.png"
+        },
+        {
+            "itemid": 2553,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2553.png"
+        },
+        {
+            "itemid": 2124,
+            "chance": 200,
+            "countmax": 1,
+            "image": "2124.png"
+        },
+        {
+            "itemid": 2483,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2483.png"
+        },
+        {
+            "itemid": 5937,
+            "chance": 90,
+            "countmax": 2,
+            "image": "5937.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2645,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2645.png"
+        },
+        {
+            "itemid": 2509,
+            "chance": 7000,
+            "countmax": 1,
+            "image": "2509.png"
+        },
+        {
+            "itemid": 2166,
+            "chance": 5500,
+            "countmax": 1,
+            "image": "2166.png"
+        }
+    ]
+}

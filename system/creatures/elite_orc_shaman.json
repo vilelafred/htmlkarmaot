@@ -1,0 +1,56 @@
+{
+    "name": "Elite Orc Shaman",
+    "lookType": 6,
+    "experience": 110,
+    "image": "6.png",
+    "loot": [
+        {
+            "itemid": 2686,
+            "chance": 13200,
+            "countmax": 2,
+            "image": "2686.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 5,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 13200,
+            "countmax": 1,
+            "image": "1987.png"
+        },
+        {
+            "itemid": 2458,
+            "chance": 10800,
+            "countmax": 1,
+            "image": "2458.png"
+        },
+        {
+            "itemid": 2464,
+            "chance": 4800,
+            "countmax": 1,
+            "image": "2464.png"
+        },
+        {
+            "itemid": 2389,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2389.png"
+        },
+        {
+            "itemid": 2401,
+            "chance": 8400,
+            "countmax": 1,
+            "image": "2401.png"
+        },
+        {
+            "itemid": 1973,
+            "chance": 5400,
+            "countmax": 1,
+            "image": "1973.png"
+        }
+    ]
+}

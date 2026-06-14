@@ -1,0 +1,74 @@
+{
+    "name": "Elite Marid",
+    "lookType": 104,
+    "experience": 300,
+    "image": "104.png",
+    "loot": [
+        {
+            "itemid": 2677,
+            "chance": 30000,
+            "countmax": 25,
+            "image": "2677.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 80,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 50,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2146,
+            "chance": 8400,
+            "countmax": 2,
+            "image": "2146.png"
+        },
+        {
+            "itemid": 2158,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2158.png"
+        },
+        {
+            "itemid": 1872,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "1872.png"
+        },
+        {
+            "itemid": 2070,
+            "chance": 360,
+            "countmax": 1,
+            "image": "2070.png"
+        },
+        {
+            "itemid": 2359,
+            "chance": 24000,
+            "countmax": 1,
+            "image": "2359.png"
+        },
+        {
+            "itemid": 2663,
+            "chance": 240,
+            "countmax": 1,
+            "image": "2663.png"
+        },
+        {
+            "itemid": 2442,
+            "chance": 24000,
+            "countmax": 1,
+            "image": "2442.png"
+        },
+        {
+            "itemid": 2183,
+            "chance": 960,
+            "countmax": 1,
+            "image": "2183.png"
+        }
+    ]
+}

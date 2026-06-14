@@ -1,0 +1,56 @@
+{
+    "name": "Pirate Corsair",
+    "lookType": 98,
+    "experience": 350,
+    "image": "98.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 50000,
+            "countmax": 88,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2489,
+            "chance": 3650,
+            "countmax": 1,
+            "image": "2489.png"
+        },
+        {
+            "itemid": 2385,
+            "chance": 14500,
+            "countmax": 1,
+            "image": "2385.png"
+        },
+        {
+            "itemid": 2376,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2376.png"
+        },
+        {
+            "itemid": 2521,
+            "chance": 2500,
+            "countmax": 1,
+            "image": "2521.png"
+        },
+        {
+            "itemid": 2399,
+            "chance": 6000,
+            "countmax": 12,
+            "image": "2399.png"
+        },
+        {
+            "itemid": 1957,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "1957.png"
+        },
+        {
+            "itemid": 5244,
+            "chance": 930,
+            "countmax": 1,
+            "image": "5244.png"
+        }
+    ]
+}

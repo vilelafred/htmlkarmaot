@@ -1,0 +1,14 @@
+{
+    "name": "Poison Spider",
+    "lookType": 36,
+    "experience": 22,
+    "image": "36.png",
+    "loot": [
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

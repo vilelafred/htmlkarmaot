@@ -1,0 +1,32 @@
+{
+    "name": "Elite Elephant",
+    "lookType": 211,
+    "experience": 160,
+    "image": "211.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 80000,
+            "countmax": 3,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 80000,
+            "countmax": 4,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 3956,
+            "chance": 1800,
+            "countmax": 2,
+            "image": "3956.png"
+        },
+        {
+            "itemid": 3973,
+            "chance": 180,
+            "countmax": 1,
+            "image": "3973.png"
+        }
+    ]
+}

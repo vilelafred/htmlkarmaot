@@ -1,0 +1,56 @@
+{
+    "name": "drake",
+    "lookType": 198,
+    "experience": 1000,
+    "image": "198.png",
+    "loot": [
+        {
+            "itemid": 2788,
+            "chance": 45000,
+            "countmax": 3,
+            "image": "2788.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 45000,
+            "countmax": 80,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 50,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2169,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2169.png"
+        },
+        {
+            "itemid": 2545,
+            "chance": 16000,
+            "countmax": 6,
+            "image": "2545.png"
+        },
+        {
+            "itemid": 2434,
+            "chance": 750,
+            "countmax": 1,
+            "image": "2434.png"
+        },
+        {
+            "itemid": 2409,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2409.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

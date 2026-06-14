@@ -1,0 +1,98 @@
+{
+    "name": "Elite Orc Leader",
+    "lookType": 59,
+    "experience": 270,
+    "image": "59.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 18000,
+            "countmax": 2,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2667,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "2667.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 33600,
+            "countmax": 35,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2410,
+            "chance": 12000,
+            "countmax": 4,
+            "image": "2410.png"
+        },
+        {
+            "itemid": 1988,
+            "chance": 24000,
+            "countmax": 1,
+            "image": "1988.png"
+        },
+        {
+            "itemid": 2475,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2475.png"
+        },
+        {
+            "itemid": 2478,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2478.png"
+        },
+        {
+            "itemid": 2647,
+            "chance": 480,
+            "countmax": 1,
+            "image": "2647.png"
+        },
+        {
+            "itemid": 2463,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2463.png"
+        },
+        {
+            "itemid": 2413,
+            "chance": 960,
+            "countmax": 1,
+            "image": "2413.png"
+        },
+        {
+            "itemid": 2397,
+            "chance": 9600,
+            "countmax": 1,
+            "image": "2397.png"
+        },
+        {
+            "itemid": 2419,
+            "chance": 14400,
+            "countmax": 1,
+            "image": "2419.png"
+        },
+        {
+            "itemid": 2379,
+            "chance": 27600,
+            "countmax": 1,
+            "image": "2379.png"
+        },
+        {
+            "itemid": 2510,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2510.png"
+        },
+        {
+            "itemid": 2207,
+            "chance": 4800,
+            "countmax": 1,
+            "image": "2207.png"
+        }
+    ]
+}

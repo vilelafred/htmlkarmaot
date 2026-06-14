@@ -1,0 +1,20 @@
+{
+    "name": "Elite Larva",
+    "lookType": 82,
+    "experience": 44,
+    "image": "82.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 24000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 28000,
+            "countmax": 20,
+            "image": "2148.png"
+        }
+    ]
+}

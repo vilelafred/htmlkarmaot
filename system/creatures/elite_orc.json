@@ -1,0 +1,50 @@
+{
+    "name": "Elite Orc",
+    "lookType": 5,
+    "experience": 25,
+    "image": "5.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 24000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 8,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2482,
+            "chance": 4800,
+            "countmax": 1,
+            "image": "2482.png"
+        },
+        {
+            "itemid": 2484,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2484.png"
+        },
+        {
+            "itemid": 2386,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2386.png"
+        },
+        {
+            "itemid": 2385,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2385.png"
+        },
+        {
+            "itemid": 2526,
+            "chance": 2400,
+            "countmax": 1,
+            "image": "2526.png"
+        }
+    ]
+}

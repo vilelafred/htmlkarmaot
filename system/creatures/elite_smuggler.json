@@ -1,0 +1,44 @@
+{
+    "name": "Elite Smuggler",
+    "lookType": 134,
+    "experience": 48,
+    "image": "134.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 60000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2461,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2461.png"
+        },
+        {
+            "itemid": 2649,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2649.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 80000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

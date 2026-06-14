@@ -1,0 +1,38 @@
+{
+    "name": "The Axeorcist",
+    "lookType": 8,
+    "experience": 395,
+    "image": "8.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 17000,
+            "countmax": 1,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 55000,
+            "countmax": 12,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2458,
+            "chance": 11000,
+            "countmax": 1,
+            "image": "2458.png"
+        },
+        {
+            "itemid": 2464,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2464.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

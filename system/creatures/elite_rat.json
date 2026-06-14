@@ -1,0 +1,26 @@
+{
+    "name": "Elite Rat",
+    "lookType": 21,
+    "experience": 5,
+    "image": "21.png",
+    "loot": [
+        {
+            "itemid": 3976,
+            "chance": 60000,
+            "countmax": 3,
+            "image": "3976.png"
+        },
+        {
+            "itemid": 2696,
+            "chance": 48000,
+            "countmax": 1,
+            "image": "2696.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 6,
+            "image": "2148.png"
+        }
+    ]
+}

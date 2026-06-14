@@ -1,0 +1,20 @@
+{
+    "name": "Elite Pirate Marauder",
+    "lookType": 716,
+    "experience": 125,
+    "image": "716.png",
+    "loot": [
+        {
+            "itemid": 2050,
+            "chance": 11856,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 12000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

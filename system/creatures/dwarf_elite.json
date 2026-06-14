@@ -1,0 +1,50 @@
+{
+    "name": "Dwarf Elite",
+    "lookType": 461,
+    "experience": 1990,
+    "image": "461.png",
+    "loot": [
+        {
+            "itemid": 2787,
+            "chance": 55000,
+            "countmax": 2,
+            "image": "2787.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 50000,
+            "countmax": 30,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2150,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2150.png"
+        },
+        {
+            "itemid": 2643,
+            "chance": 40000,
+            "countmax": 1,
+            "image": "2643.png"
+        },
+        {
+            "itemid": 2483,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2483.png"
+        },
+        {
+            "itemid": 2457,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "2457.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Ethan",
+    "lookType": 68,
+    "experience": 1390,
+    "image": "68.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 15000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2144,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2144.png"
+        },
+        {
+            "itemid": 2229,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2229.png"
+        },
+        {
+            "itemid": 2032,
+            "chance": 11000,
+            "countmax": 1,
+            "image": "2032.png"
+        },
+        {
+            "itemid": 2747,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "2747.png"
+        },
+        {
+            "itemid": 2127,
+            "chance": 200,
+            "countmax": 1,
+            "image": "2127.png"
+        },
+        {
+            "itemid": 2479,
+            "chance": 400,
+            "countmax": 1,
+            "image": "2479.png"
+        },
+        {
+            "itemid": 2649,
+            "chance": 8000,
+            "countmax": 1,
+            "image": "2649.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

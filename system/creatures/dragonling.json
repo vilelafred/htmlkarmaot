@@ -1,0 +1,14 @@
+{
+    "name": "Dragonling",
+    "lookType": 505,
+    "experience": 2200,
+    "image": "505.png",
+    "loot": [
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

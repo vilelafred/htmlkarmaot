@@ -1,0 +1,20 @@
+{
+    "name": "Blood Crab",
+    "lookType": 734,
+    "experience": 160,
+    "image": "734.png",
+    "loot": [
+        {
+            "itemid": 2667,
+            "chance": 1300,
+            "countmax": 1,
+            "image": "2667.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

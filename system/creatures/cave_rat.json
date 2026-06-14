@@ -1,0 +1,38 @@
+{
+    "name": "Cave Rat",
+    "lookType": 56,
+    "experience": 10,
+    "image": "56.png",
+    "loot": [
+        {
+            "itemid": 3976,
+            "chance": 50000,
+            "countmax": 3,
+            "image": "3976.png"
+        },
+        {
+            "itemid": 2687,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2687.png"
+        },
+        {
+            "itemid": 2696,
+            "chance": 30000,
+            "countmax": 1,
+            "image": "2696.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 85000,
+            "countmax": 2,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 2,
+            "image": "8176.png"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Elder Wyrm",
+    "lookType": 561,
+    "experience": 2500,
+    "image": "561.png",
+    "loot": [
+        {
+            "itemid": 2672,
+            "chance": 32420,
+            "countmax": 2,
+            "image": "2672.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

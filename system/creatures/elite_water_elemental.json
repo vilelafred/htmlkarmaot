@@ -1,0 +1,14 @@
+{
+    "name": "Elite Water Elemental",
+    "lookType": 364,
+    "experience": 650,
+    "image": "364.png",
+    "loot": [
+        {
+            "itemid": 2667,
+            "chance": 24000,
+            "countmax": 1,
+            "image": "2667.png"
+        }
+    ]
+}

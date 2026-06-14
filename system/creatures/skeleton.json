@@ -1,0 +1,68 @@
+{
+    "name": "Skeleton",
+    "lookType": 33,
+    "experience": 35,
+    "image": "33.png",
+    "loot": [
+        {
+            "itemid": 1987,
+            "chance": 55000,
+            "countmax": 1,
+            "image": "1987.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 45000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2230,
+            "chance": 50000,
+            "countmax": 1,
+            "image": "2230.png"
+        },
+        {
+            "itemid": 2473,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2473.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 50000,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2398,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2398.png"
+        },
+        {
+            "itemid": 2388,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2388.png"
+        },
+        {
+            "itemid": 2376,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "2376.png"
+        },
+        {
+            "itemid": 2511,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "2511.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "water sorcerer",
+    "lookType": 384,
+    "experience": 1389,
+    "image": "384.png",
+    "loot": [
+        {
+            "itemid": 2796,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2796.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 30000,
+            "countmax": 90,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2483,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2483.png"
+        },
+        {
+            "itemid": 2195,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "2195.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 15000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "name": "Elite Hunter",
+    "lookType": 129,
+    "experience": 150,
+    "image": "129.png",
+    "loot": [
+        {
+            "itemid": 2675,
+            "chance": 36000,
+            "countmax": 2,
+            "image": "2675.png"
+        },
+        {
+            "itemid": 2690,
+            "chance": 19800,
+            "countmax": 2,
+            "image": "2690.png"
+        },
+        {
+            "itemid": 2147,
+            "chance": 360,
+            "countmax": 1,
+            "image": "2147.png"
+        },
+        {
+            "itemid": 2544,
+            "chance": 80000,
+            "countmax": 10,
+            "image": "2544.png"
+        },
+        {
+            "itemid": 2544,
+            "chance": 72000,
+            "countmax": 12,
+            "image": "2544.png"
+        },
+        {
+            "itemid": 2546,
+            "chance": 9000,
+            "countmax": 3,
+            "image": "2546.png"
+        },
+        {
+            "itemid": 2460,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2460.png"
+        },
+        {
+            "itemid": 2461,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2461.png"
+        },
+        {
+            "itemid": 2465,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2465.png"
+        },
+        {
+            "itemid": 2649,
+            "chance": 25200,
+            "countmax": 1,
+            "image": "2649.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2456,
+            "chance": 54000,
+            "countmax": 1,
+            "image": "2456.png"
+        },
+        {
+            "itemid": 2201,
+            "chance": 5400,
+            "countmax": 1,
+            "image": "2201.png"
+        }
+    ]
+}

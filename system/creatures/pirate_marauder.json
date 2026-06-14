@@ -1,0 +1,50 @@
+{
+    "name": "Pirate Marauder",
+    "lookType": 93,
+    "experience": 125,
+    "image": "93.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 77670,
+            "countmax": 60,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2376,
+            "chance": 9750,
+            "countmax": 1,
+            "image": "2376.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 9250,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2389,
+            "chance": 4000,
+            "countmax": 2,
+            "image": "2389.png"
+        },
+        {
+            "itemid": 2510,
+            "chance": 4800,
+            "countmax": 1,
+            "image": "2510.png"
+        },
+        {
+            "itemid": 2464,
+            "chance": 2750,
+            "countmax": 1,
+            "image": "2464.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

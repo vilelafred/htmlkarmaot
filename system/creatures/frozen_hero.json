@@ -1,0 +1,104 @@
+{
+    "name": "Frozen Hero",
+    "lookType": 329,
+    "experience": 2550,
+    "image": "329.png",
+    "loot": [
+        {
+            "itemid": 2667,
+            "chance": 18000,
+            "countmax": 2,
+            "image": "2667.png"
+        },
+        {
+            "itemid": 2670,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2670.png"
+        },
+        {
+            "itemid": 2146,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2146.png"
+        },
+        {
+            "itemid": 2396,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2396.png"
+        },
+        {
+            "itemid": 2177,
+            "chance": 800,
+            "countmax": 1,
+            "image": "2177.png"
+        },
+        {
+            "itemid": 2520,
+            "chance": 700,
+            "countmax": 1,
+            "image": "2520.png"
+        },
+        {
+            "itemid": 2152,
+            "chance": 60000,
+            "countmax": 10,
+            "image": "2152.png"
+        },
+        {
+            "itemid": 2152,
+            "chance": 60000,
+            "countmax": 10,
+            "image": "2152.png"
+        },
+        {
+            "itemid": 2152,
+            "chance": 60000,
+            "countmax": 10,
+            "image": "2152.png"
+        },
+        {
+            "itemid": 1949,
+            "chance": 45000,
+            "countmax": 1,
+            "image": "1949.png"
+        },
+        {
+            "itemid": 2745,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2745.png"
+        },
+        {
+            "itemid": 2656,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2656.png"
+        },
+        {
+            "itemid": 2663,
+            "chance": 800,
+            "countmax": 1,
+            "image": "2663.png"
+        },
+        {
+            "itemid": 2491,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2491.png"
+        },
+        {
+            "itemid": 2487,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2487.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

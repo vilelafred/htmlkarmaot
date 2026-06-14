@@ -1,0 +1,116 @@
+{
+    "name": "Medusa",
+    "lookType": 422,
+    "experience": 4050,
+    "image": "422.png",
+    "loot": [
+        {
+            "itemid": 2796,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2796.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 8000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 4000,
+            "countmax": 50,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 6000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2146,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2146.png"
+        },
+        {
+            "itemid": 2547,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2547.png"
+        },
+        {
+            "itemid": 2177,
+            "chance": 800,
+            "countmax": 1,
+            "image": "2177.png"
+        },
+        {
+            "itemid": 2033,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2033.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 1967,
+            "chance": 500,
+            "countmax": 1,
+            "image": "1967.png"
+        },
+        {
+            "itemid": 1976,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "1976.png"
+        },
+        {
+            "itemid": 2479,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2479.png"
+        },
+        {
+            "itemid": 3971,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "3971.png"
+        },
+        {
+            "itemid": 2498,
+            "chance": 800,
+            "countmax": 1,
+            "image": "2498.png"
+        },
+        {
+            "itemid": 2492,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2492.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

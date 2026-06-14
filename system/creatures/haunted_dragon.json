@@ -1,0 +1,80 @@
+{
+    "name": "Haunted Dragon",
+    "lookType": 231,
+    "experience": 6500,
+    "image": "231.png",
+    "loot": [
+        {
+            "itemid": 6500,
+            "chance": 14580,
+            "countmax": 1,
+            "image": "6500.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 100000,
+            "countmax": 198,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 7591,
+            "chance": 23740,
+            "countmax": 3,
+            "image": "7591.png"
+        },
+        {
+            "itemid": 7590,
+            "chance": 25660,
+            "countmax": 3,
+            "image": "7590.png"
+        },
+        {
+            "itemid": 5925,
+            "chance": 14580,
+            "countmax": 1,
+            "image": "5925.png"
+        },
+        {
+            "itemid": 2152,
+            "chance": 49790,
+            "countmax": 5,
+            "image": "2152.png"
+        },
+        {
+            "itemid": 2201,
+            "chance": 32260,
+            "countmax": 1,
+            "image": "2201.png"
+        },
+        {
+            "itemid": 2177,
+            "chance": 1140,
+            "countmax": 1,
+            "image": "2177.png"
+        },
+        {
+            "itemid": 27241,
+            "chance": 4290,
+            "countmax": 2,
+            "image": "27241.png"
+        },
+        {
+            "itemid": 11355,
+            "chance": 850,
+            "countmax": 1,
+            "image": "11355.png"
+        },
+        {
+            "itemid": 8889,
+            "chance": 530,
+            "countmax": 1,
+            "image": "8889.png"
+        },
+        {
+            "itemid": 6300,
+            "chance": 1950,
+            "countmax": 1,
+            "image": "6300.png"
+        }
+    ]
+}

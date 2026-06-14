@@ -1,0 +1,44 @@
+{
+    "name": "Kraknaknork",
+    "lookType": 6,
+    "experience": 110,
+    "image": "6.png",
+    "loot": [
+        {
+            "itemid": 2686,
+            "chance": 11000,
+            "countmax": 2,
+            "image": "2686.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 90000,
+            "countmax": 5,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 11000,
+            "countmax": 1,
+            "image": "1987.png"
+        },
+        {
+            "itemid": 2458,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2458.png"
+        },
+        {
+            "itemid": 2464,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2464.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

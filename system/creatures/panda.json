@@ -1,0 +1,20 @@
+{
+    "name": "Panda",
+    "lookType": 123,
+    "experience": 23,
+    "image": "123.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 40000,
+            "countmax": 2,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 70000,
+            "countmax": 4,
+            "image": "2666.png"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Elite Giant Spider",
+    "lookType": 38,
+    "experience": 900,
+    "image": "38.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 59940,
+            "countmax": 80,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 40,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2463,
+            "chance": 5400,
+            "countmax": 1,
+            "image": "2463.png"
+        },
+        {
+            "itemid": 2478,
+            "chance": 14400,
+            "countmax": 1,
+            "image": "2478.png"
+        },
+        {
+            "itemid": 2457,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2457.png"
+        },
+        {
+            "itemid": 2477,
+            "chance": 1620,
+            "countmax": 1,
+            "image": "2477.png"
+        },
+        {
+            "itemid": 2476,
+            "chance": 1620,
+            "countmax": 1,
+            "image": "2476.png"
+        },
+        {
+            "itemid": 2171,
+            "chance": 180,
+            "countmax": 1,
+            "image": "2171.png"
+        },
+        {
+            "itemid": 5928,
+            "chance": 900,
+            "countmax": 1,
+            "image": "5928.png"
+        },
+        {
+            "itemid": 5920,
+            "chance": 900,
+            "countmax": 1,
+            "image": "5920.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 59940,
+            "countmax": 55,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2169,
+            "chance": 1260,
+            "countmax": 1,
+            "image": "2169.png"
+        },
+        {
+            "itemid": 5935,
+            "chance": 900,
+            "countmax": 1,
+            "image": "5935.png"
+        }
+    ]
+}

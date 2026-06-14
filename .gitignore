@@ -1,0 +1,25 @@
+# Runtime / cache
+system/php_sessions/
+system/cache/
+system/logs/
+
+# Local secrets and overrides
+config.local.php
+
+# Client installers and downloads (large binaries)
+downloads/
+*.exe
+*.zip
+
+# Videos
+*.mp4
+*.webm
+*.avi
+*.mov
+*.mkv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~

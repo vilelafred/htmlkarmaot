@@ -1,0 +1,56 @@
+{
+    "name": "elf swordmaster",
+    "lookType": 190,
+    "experience": 620,
+    "image": "190.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 40000,
+            "countmax": 11,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2397,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2397.png"
+        },
+        {
+            "itemid": 2467,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2467.png"
+        },
+        {
+            "itemid": 2207,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "2207.png"
+        },
+        {
+            "itemid": 2489,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2489.png"
+        },
+        {
+            "itemid": 2413,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "2413.png"
+        },
+        {
+            "itemid": 2171,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2171.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

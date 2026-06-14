@@ -1,0 +1,26 @@
+{
+    "name": "corym",
+    "lookType": 186,
+    "experience": 80,
+    "image": "186.png",
+    "loot": [
+        {
+            "itemid": 2696,
+            "chance": 50000,
+            "countmax": 1,
+            "image": "2696.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2411,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2411.png"
+        }
+    ]
+}

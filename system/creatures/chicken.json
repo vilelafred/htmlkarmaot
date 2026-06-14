@@ -1,0 +1,26 @@
+{
+    "name": "Chicken",
+    "lookType": 111,
+    "experience": 0,
+    "image": "111.png",
+    "loot": [
+        {
+            "itemid": 3976,
+            "chance": 30000,
+            "countmax": 3,
+            "image": "3976.png"
+        },
+        {
+            "itemid": 2695,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2695.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 2000,
+            "countmax": 2,
+            "image": "2666.png"
+        }
+    ]
+}

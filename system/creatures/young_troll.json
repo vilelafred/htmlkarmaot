@@ -1,0 +1,14 @@
+{
+    "name": "Young Troll",
+    "lookType": 15,
+    "experience": 12,
+    "image": "15.png",
+    "loot": [
+        {
+            "itemid": 2120,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2120.png"
+        }
+    ]
+}

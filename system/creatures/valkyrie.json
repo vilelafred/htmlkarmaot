@@ -1,0 +1,92 @@
+{
+    "name": "Valkyrie",
+    "lookType": 139,
+    "experience": 85,
+    "image": "139.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 30000,
+            "countmax": 3,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2674,
+            "chance": 7500,
+            "countmax": 2,
+            "image": "2674.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 32000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2145,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2145.png"
+        },
+        {
+            "itemid": 2229,
+            "chance": 80000,
+            "countmax": 2,
+            "image": "2229.png"
+        },
+        {
+            "itemid": 2458,
+            "chance": 4000,
+            "countmax": 1,
+            "image": "2458.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2464,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2464.png"
+        },
+        {
+            "itemid": 2463,
+            "chance": 900,
+            "countmax": 1,
+            "image": "2463.png"
+        },
+        {
+            "itemid": 2389,
+            "chance": 60000,
+            "countmax": 3,
+            "image": "2389.png"
+        },
+        {
+            "itemid": 2379,
+            "chance": 25000,
+            "countmax": 1,
+            "image": "2379.png"
+        },
+        {
+            "itemid": 2387,
+            "chance": 650,
+            "countmax": 1,
+            "image": "2387.png"
+        },
+        {
+            "itemid": 2200,
+            "chance": 1100,
+            "countmax": 1,
+            "image": "2200.png"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Fire Devil",
+    "lookType": 40,
+    "experience": 110,
+    "image": "40.png",
+    "loot": [
+        {
+            "itemid": 2150,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2150.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2260,
+            "chance": 11000,
+            "countmax": 1,
+            "image": "2260.png"
+        },
+        {
+            "itemid": 2548,
+            "chance": 50000,
+            "countmax": 1,
+            "image": "2548.png"
+        },
+        {
+            "itemid": 2568,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2568.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 15000,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2387,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2387.png"
+        },
+        {
+            "itemid": 2419,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2419.png"
+        },
+        {
+            "itemid": 2515,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2515.png"
+        }
+    ]
+}

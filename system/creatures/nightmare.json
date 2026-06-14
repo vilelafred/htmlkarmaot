@@ -1,0 +1,32 @@
+{
+    "name": "Nightmare",
+    "lookType": 286,
+    "experience": 2150,
+    "image": "286.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 29000,
+            "countmax": 2,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 5937,
+            "chance": 90,
+            "countmax": 2,
+            "image": "5937.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        }
+    ]
+}

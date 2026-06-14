@@ -1,0 +1,92 @@
+{
+    "name": "Goshnar",
+    "lookType": 245,
+    "experience": 19800,
+    "image": "245.png",
+    "loot": [
+        {
+            "itemid": 1987,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "1987.png"
+        },
+        {
+            "itemid": 2143,
+            "chance": 325,
+            "countmax": 2,
+            "image": "2143.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 40000,
+            "countmax": 90,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 5839,
+            "chance": 375,
+            "countmax": 1,
+            "image": "5839.png"
+        },
+        {
+            "itemid": 2600,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2600.png"
+        },
+        {
+            "itemid": 2151,
+            "chance": 400,
+            "countmax": 1,
+            "image": "2151.png"
+        },
+        {
+            "itemid": 5775,
+            "chance": 125,
+            "countmax": 1,
+            "image": "5775.png"
+        },
+        {
+            "itemid": 2175,
+            "chance": 525,
+            "countmax": 1,
+            "image": "2175.png"
+        },
+        {
+            "itemid": 2176,
+            "chance": 325,
+            "countmax": 1,
+            "image": "2176.png"
+        },
+        {
+            "itemid": 2433,
+            "chance": 525,
+            "countmax": 1,
+            "image": "2433.png"
+        },
+        {
+            "itemid": 5819,
+            "chance": 100,
+            "countmax": 1,
+            "image": "5819.png"
+        },
+        {
+            "itemid": 5832,
+            "chance": 225,
+            "countmax": 1,
+            "image": "5832.png"
+        }
+    ]
+}

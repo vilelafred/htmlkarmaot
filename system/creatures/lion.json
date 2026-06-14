@@ -1,0 +1,20 @@
+{
+    "name": "Lion",
+    "lookType": 41,
+    "experience": 30,
+    "image": "41.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 20000,
+            "countmax": 2,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 45000,
+            "countmax": 3,
+            "image": "2666.png"
+        }
+    ]
+}

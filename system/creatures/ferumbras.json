@@ -1,0 +1,56 @@
+{
+    "name": "Ferumbras",
+    "lookType": 314,
+    "experience": 9999,
+    "image": "314.png",
+    "loot": [
+        {
+            "itemid": 1988,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1988.png"
+        },
+        {
+            "itemid": 2470,
+            "chance": 17825,
+            "countmax": 1,
+            "image": "2470.png"
+        },
+        {
+            "itemid": 2146,
+            "chance": 4600,
+            "countmax": 92,
+            "image": "2146.png"
+        },
+        {
+            "itemid": 2542,
+            "chance": 21825,
+            "countmax": 1,
+            "image": "2542.png"
+        },
+        {
+            "itemid": 1986,
+            "chance": 8500,
+            "countmax": 1,
+            "image": "1986.png"
+        },
+        {
+            "itemid": 2514,
+            "chance": 28500,
+            "countmax": 1,
+            "image": "2514.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 53550,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 53550,
+            "countmax": 84,
+            "image": "2148.png"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Deer",
+    "lookType": 31,
+    "experience": 0,
+    "image": "31.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 45000,
+            "countmax": 1,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 80000,
+            "countmax": 3,
+            "image": "2666.png"
+        }
+    ]
+}

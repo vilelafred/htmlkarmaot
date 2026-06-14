@@ -1,0 +1,50 @@
+{
+    "name": "Elite Green Djinn",
+    "lookType": 51,
+    "experience": 190,
+    "image": "51.png",
+    "loot": [
+        {
+            "itemid": 2696,
+            "chance": 45000,
+            "countmax": 1,
+            "image": "2696.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 63000,
+            "countmax": 50,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2149,
+            "chance": 1260,
+            "countmax": 8,
+            "image": "2149.png"
+        },
+        {
+            "itemid": 2747,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2747.png"
+        },
+        {
+            "itemid": 2359,
+            "chance": 13500,
+            "countmax": 1,
+            "image": "2359.png"
+        },
+        {
+            "itemid": 2663,
+            "chance": 180,
+            "countmax": 1,
+            "image": "2663.png"
+        },
+        {
+            "itemid": 1980,
+            "chance": 4500,
+            "countmax": 1,
+            "image": "1980.png"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "name": "Lory Keeper",
+    "lookType": 773,
+    "experience": 2200,
+    "image": "773.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 30000,
+            "countmax": 80,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2143,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2143.png"
+        },
+        {
+            "itemid": 2144,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2144.png"
+        },
+        {
+            "itemid": 2177,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2177.png"
+        },
+        {
+            "itemid": 2124,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2124.png"
+        },
+        {
+            "itemid": 2121,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2121.png"
+        },
+        {
+            "itemid": 2071,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2071.png"
+        },
+        {
+            "itemid": 2560,
+            "chance": 7000,
+            "countmax": 1,
+            "image": "2560.png"
+        },
+        {
+            "itemid": 2134,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2134.png"
+        },
+        {
+            "itemid": 2657,
+            "chance": 60000,
+            "countmax": 1,
+            "image": "2657.png"
+        },
+        {
+            "itemid": 2237,
+            "chance": 19900,
+            "countmax": 1,
+            "image": "2237.png"
+        },
+        {
+            "itemid": 2656,
+            "chance": 900,
+            "countmax": 1,
+            "image": "2656.png"
+        },
+        {
+            "itemid": 2655,
+            "chance": 30,
+            "countmax": 1,
+            "image": "2655.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2047,
+            "chance": 70000,
+            "countmax": 1,
+            "image": "2047.png"
+        },
+        {
+            "itemid": 2411,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2411.png"
+        },
+        {
+            "itemid": 2197,
+            "chance": 80,
+            "countmax": 1,
+            "image": "2197.png"
+        },
+        {
+            "itemid": 2170,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2170.png"
+        },
+        {
+            "itemid": 2214,
+            "chance": 150,
+            "countmax": 1,
+            "image": "2214.png"
+        },
+        {
+            "itemid": 2175,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2175.png"
+        }
+    ]
+}

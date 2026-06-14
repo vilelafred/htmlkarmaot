@@ -1,0 +1,62 @@
+{
+    "name": "Ancient Monster",
+    "lookType": 405,
+    "experience": 9950,
+    "image": "405.png",
+    "loot": [
+        {
+            "itemid": 2354,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "2354.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 70000,
+            "countmax": 80,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 50000,
+            "countmax": 85,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 35000,
+            "countmax": 95,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2146,
+            "chance": 10000,
+            "countmax": 3,
+            "image": "2146.png"
+        },
+        {
+            "itemid": 2158,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2158.png"
+        },
+        {
+            "itemid": 2178,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2178.png"
+        },
+        {
+            "itemid": 2193,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2193.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

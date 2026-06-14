@@ -1,0 +1,14 @@
+{
+    "name": "Toad",
+    "lookType": 739,
+    "experience": 60,
+    "image": "739.png",
+    "loot": [
+        {
+            "itemid": 2667,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2667.png"
+        }
+    ]
+}

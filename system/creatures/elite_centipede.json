@@ -1,0 +1,26 @@
+{
+    "name": "Elite Centipede",
+    "lookType": 124,
+    "experience": 30,
+    "image": "124.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 25,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2376,
+            "chance": 5400,
+            "countmax": 1,
+            "image": "2376.png"
+        },
+        {
+            "itemid": 2398,
+            "chance": 8100,
+            "countmax": 1,
+            "image": "2398.png"
+        }
+    ]
+}

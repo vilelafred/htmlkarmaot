@@ -1,0 +1,20 @@
+{
+    "name": "Rabbit",
+    "lookType": 74,
+    "experience": 0,
+    "image": "74.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 85000,
+            "countmax": 2,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2684,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2684.png"
+        }
+    ]
+}

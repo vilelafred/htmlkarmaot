@@ -1,0 +1,38 @@
+{
+    "name": "Nature Golem",
+    "lookType": 380,
+    "experience": 4060,
+    "image": "380.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 16000,
+            "countmax": 15,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 1294,
+            "chance": 13000,
+            "countmax": 4,
+            "image": "1294.png"
+        },
+        {
+            "itemid": 2156,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2156.png"
+        },
+        {
+            "itemid": 2483,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2483.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

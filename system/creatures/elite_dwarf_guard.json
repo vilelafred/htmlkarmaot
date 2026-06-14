@@ -1,0 +1,74 @@
+{
+    "name": "Elite Dwarf Guard",
+    "lookType": 70,
+    "experience": 165,
+    "image": "70.png",
+    "loot": [
+        {
+            "itemid": 2787,
+            "chance": 80000,
+            "countmax": 2,
+            "image": "2787.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 5400,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 50,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2150,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "2150.png"
+        },
+        {
+            "itemid": 2643,
+            "chance": 72000,
+            "countmax": 1,
+            "image": "2643.png"
+        },
+        {
+            "itemid": 2483,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2483.png"
+        },
+        {
+            "itemid": 2457,
+            "chance": 2160,
+            "countmax": 1,
+            "image": "2457.png"
+        },
+        {
+            "itemid": 2417,
+            "chance": 2340,
+            "countmax": 1,
+            "image": "2417.png"
+        },
+        {
+            "itemid": 2387,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2387.png"
+        },
+        {
+            "itemid": 2513,
+            "chance": 2700,
+            "countmax": 1,
+            "image": "2513.png"
+        },
+        {
+            "itemid": 2208,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2208.png"
+        }
+    ]
+}

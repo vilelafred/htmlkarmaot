@@ -1,0 +1,50 @@
+{
+    "name": "Lost Soul",
+    "lookType": 265,
+    "experience": 4000,
+    "image": "265.png",
+    "loot": [
+        {
+            "itemid": 2483,
+            "chance": 8675,
+            "countmax": 1,
+            "image": "2483.png"
+        },
+        {
+            "itemid": 2144,
+            "chance": 1325,
+            "countmax": 3,
+            "image": "2144.png"
+        },
+        {
+            "itemid": 2143,
+            "chance": 1300,
+            "countmax": 3,
+            "image": "2143.png"
+        },
+        {
+            "itemid": 2197,
+            "chance": 950,
+            "countmax": 1,
+            "image": "2197.png"
+        },
+        {
+            "itemid": 2260,
+            "chance": 32750,
+            "countmax": 1,
+            "image": "2260.png"
+        },
+        {
+            "itemid": 2457,
+            "chance": 9275,
+            "countmax": 1,
+            "image": "2457.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

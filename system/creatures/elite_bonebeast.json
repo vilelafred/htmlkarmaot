@@ -1,0 +1,56 @@
+{
+    "name": "Elite Bonebeast",
+    "lookType": 101,
+    "experience": 580,
+    "image": "101.png",
+    "loot": [
+        {
+            "itemid": 2796,
+            "chance": 2700,
+            "countmax": 1,
+            "image": "2796.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 54000,
+            "countmax": 90,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2231,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2231.png"
+        },
+        {
+            "itemid": 2230,
+            "chance": 80000,
+            "countmax": 1,
+            "image": "2230.png"
+        },
+        {
+            "itemid": 2229,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "2229.png"
+        },
+        {
+            "itemid": 2463,
+            "chance": 14400,
+            "countmax": 1,
+            "image": "2463.png"
+        },
+        {
+            "itemid": 2449,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2449.png"
+        },
+        {
+            "itemid": 2541,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2541.png"
+        }
+    ]
+}

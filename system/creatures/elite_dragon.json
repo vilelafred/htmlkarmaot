@@ -1,0 +1,128 @@
+{
+    "name": "Elite Dragon",
+    "lookType": 34,
+    "experience": 700,
+    "image": "34.png",
+    "loot": [
+        {
+            "itemid": 2672,
+            "chance": 80000,
+            "countmax": 3,
+            "image": "2672.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 45,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 60,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2145,
+            "chance": 720,
+            "countmax": 1,
+            "image": "2145.png"
+        },
+        {
+            "itemid": 2546,
+            "chance": 28800,
+            "countmax": 10,
+            "image": "2546.png"
+        },
+        {
+            "itemid": 2177,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "2177.png"
+        },
+        {
+            "itemid": 5922,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "5922.png"
+        },
+        {
+            "itemid": 2457,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2457.png"
+        },
+        {
+            "itemid": 2647,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2647.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 45,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2455,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2455.png"
+        },
+        {
+            "itemid": 2397,
+            "chance": 7200,
+            "countmax": 1,
+            "image": "2397.png"
+        },
+        {
+            "itemid": 2413,
+            "chance": 2700,
+            "countmax": 1,
+            "image": "2413.png"
+        },
+        {
+            "itemid": 2387,
+            "chance": 2160,
+            "countmax": 1,
+            "image": "2387.png"
+        },
+        {
+            "itemid": 2434,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "2434.png"
+        },
+        {
+            "itemid": 2409,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "2409.png"
+        },
+        {
+            "itemid": 2406,
+            "chance": 45000,
+            "countmax": 1,
+            "image": "2406.png"
+        },
+        {
+            "itemid": 2398,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "2398.png"
+        },
+        {
+            "itemid": 2509,
+            "chance": 27000,
+            "countmax": 1,
+            "image": "2509.png"
+        },
+        {
+            "itemid": 2516,
+            "chance": 1260,
+            "countmax": 1,
+            "image": "2516.png"
+        }
+    ]
+}

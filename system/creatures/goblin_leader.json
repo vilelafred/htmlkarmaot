@@ -1,0 +1,68 @@
+{
+    "name": "Goblin Leader",
+    "lookType": 61,
+    "experience": 75,
+    "image": "61.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 40000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2230,
+            "chance": 11500,
+            "countmax": 1,
+            "image": "2230.png"
+        },
+        {
+            "itemid": 2235,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2235.png"
+        },
+        {
+            "itemid": 2379,
+            "chance": 10300,
+            "countmax": 1,
+            "image": "2379.png"
+        },
+        {
+            "itemid": 2406,
+            "chance": 15400,
+            "countmax": 1,
+            "image": "2406.png"
+        },
+        {
+            "itemid": 2449,
+            "chance": 1300,
+            "countmax": 1,
+            "image": "2449.png"
+        },
+        {
+            "itemid": 2461,
+            "chance": 16670,
+            "countmax": 1,
+            "image": "2461.png"
+        },
+        {
+            "itemid": 2467,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2467.png"
+        },
+        {
+            "itemid": 2559,
+            "chance": 12800,
+            "countmax": 1,
+            "image": "2559.png"
+        },
+        {
+            "itemid": 2667,
+            "chance": 15000,
+            "countmax": 1,
+            "image": "2667.png"
+        }
+    ]
+}

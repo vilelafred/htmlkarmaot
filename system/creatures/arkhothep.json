@@ -1,0 +1,32 @@
+{
+    "name": "Arkhothep",
+    "lookType": 441,
+    "experience": 3100,
+    "image": "441.png",
+    "loot": [
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 35100,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 35100,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 35100,
+            "countmax": 43,
+            "image": "2148.png"
+        }
+    ]
+}

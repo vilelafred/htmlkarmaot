@@ -1,0 +1,80 @@
+{
+    "name": "Goblin",
+    "lookType": 61,
+    "experience": 25,
+    "image": "61.png",
+    "loot": [
+        {
+            "itemid": 2667,
+            "chance": 13000,
+            "countmax": 1,
+            "image": "2667.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 50000,
+            "countmax": 9,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 1294,
+            "chance": 50000,
+            "countmax": 10,
+            "image": "1294.png"
+        },
+        {
+            "itemid": 2230,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2230.png"
+        },
+        {
+            "itemid": 2235,
+            "chance": 7000,
+            "countmax": 1,
+            "image": "2235.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2559,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2559.png"
+        },
+        {
+            "itemid": 2461,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2461.png"
+        },
+        {
+            "itemid": 2467,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2467.png"
+        },
+        {
+            "itemid": 2379,
+            "chance": 4000,
+            "countmax": 1,
+            "image": "2379.png"
+        },
+        {
+            "itemid": 2406,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2406.png"
+        },
+        {
+            "itemid": 2449,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "2449.png"
+        }
+    ]
+}

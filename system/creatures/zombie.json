@@ -1,0 +1,50 @@
+{
+    "name": "Zombie",
+    "lookType": 311,
+    "experience": 280,
+    "image": "311.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 24000,
+            "countmax": 64,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2227,
+            "chance": 45000,
+            "countmax": 1,
+            "image": "2227.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 46250,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2460,
+            "chance": 8700,
+            "countmax": 1,
+            "image": "2460.png"
+        },
+        {
+            "itemid": 2457,
+            "chance": 8700,
+            "countmax": 1,
+            "image": "2457.png"
+        },
+        {
+            "itemid": 2398,
+            "chance": 7250,
+            "countmax": 1,
+            "image": "2398.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

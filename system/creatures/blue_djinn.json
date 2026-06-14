@@ -1,0 +1,56 @@
+{
+    "name": "Blue Djinn",
+    "lookType": 80,
+    "experience": 190,
+    "image": "80.png",
+    "loot": [
+        {
+            "itemid": 2684,
+            "chance": 25000,
+            "countmax": 1,
+            "image": "2684.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 70000,
+            "countmax": 50,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2146,
+            "chance": 2500,
+            "countmax": 6,
+            "image": "2146.png"
+        },
+        {
+            "itemid": 2063,
+            "chance": 7500,
+            "countmax": 1,
+            "image": "2063.png"
+        },
+        {
+            "itemid": 2745,
+            "chance": 900,
+            "countmax": 1,
+            "image": "2745.png"
+        },
+        {
+            "itemid": 2663,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2663.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 10,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 1978,
+            "chance": 2500,
+            "countmax": 1,
+            "image": "1978.png"
+        }
+    ]
+}

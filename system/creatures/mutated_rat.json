@@ -1,0 +1,14 @@
+{
+    "name": "Mutated Rat",
+    "lookType": 305,
+    "experience": 450,
+    "image": "305.png",
+    "loot": [
+        {
+            "itemid": 2229,
+            "chance": 20240,
+            "countmax": 1,
+            "image": "2229.png"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Massive Water Elemental",
+    "lookType": 11,
+    "experience": 1100,
+    "image": "11.png",
+    "loot": [
+        {
+            "itemid": 2667,
+            "chance": 40000,
+            "countmax": 2,
+            "image": "2667.png"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "name": "Elite Demon",
+    "lookType": 35,
+    "experience": 6000,
+    "image": "35.png",
+    "loot": [
+        {
+            "itemid": 2795,
+            "chance": 36000,
+            "countmax": 6,
+            "image": "2795.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2151,
+            "chance": 6300,
+            "countmax": 1,
+            "image": "2151.png"
+        },
+        {
+            "itemid": 2149,
+            "chance": 19800,
+            "countmax": 1,
+            "image": "2149.png"
+        },
+        {
+            "itemid": 2176,
+            "chance": 5400,
+            "countmax": 1,
+            "image": "2176.png"
+        },
+        {
+            "itemid": 1982,
+            "chance": 2340,
+            "countmax": 1,
+            "image": "1982.png"
+        },
+        {
+            "itemid": 2179,
+            "chance": 1980,
+            "countmax": 1,
+            "image": "2179.png"
+        },
+        {
+            "itemid": 2171,
+            "chance": 1260,
+            "countmax": 1,
+            "image": "2171.png"
+        },
+        {
+            "itemid": 2462,
+            "chance": 2160,
+            "countmax": 1,
+            "image": "2462.png"
+        },
+        {
+            "itemid": 2470,
+            "chance": 629,
+            "countmax": 1,
+            "image": "2470.png"
+        },
+        {
+            "itemid": 2472,
+            "chance": 360,
+            "countmax": 1,
+            "image": "2472.png"
+        },
+        {
+            "itemid": 5907,
+            "chance": 1260,
+            "countmax": 1,
+            "image": "5907.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 5908,
+            "chance": 1260,
+            "countmax": 1,
+            "image": "5908.png"
+        },
+        {
+            "itemid": 2678,
+            "chance": 3600,
+            "countmax": 2,
+            "image": "2678.png"
+        },
+        {
+            "itemid": 2432,
+            "chance": 7200,
+            "countmax": 1,
+            "image": "2432.png"
+        },
+        {
+            "itemid": 2393,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2393.png"
+        },
+        {
+            "itemid": 2387,
+            "chance": 54000,
+            "countmax": 1,
+            "image": "2387.png"
+        },
+        {
+            "itemid": 2396,
+            "chance": 1080,
+            "countmax": 1,
+            "image": "2396.png"
+        },
+        {
+            "itemid": 2418,
+            "chance": 2700,
+            "countmax": 1,
+            "image": "2418.png"
+        },
+        {
+            "itemid": 2520,
+            "chance": 1620,
+            "countmax": 1,
+            "image": "2520.png"
+        },
+        {
+            "itemid": 2514,
+            "chance": 540,
+            "countmax": 1,
+            "image": "2514.png"
+        },
+        {
+            "itemid": 2214,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2214.png"
+        },
+        {
+            "itemid": 2164,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2164.png"
+        },
+        {
+            "itemid": 2165,
+            "chance": 2520,
+            "countmax": 1,
+            "image": "2165.png"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "name": "Ladies of red rose",
+    "lookType": 137,
+    "experience": 2600,
+    "image": "137.png",
+    "loot": [
+        {
+            "itemid": 2674,
+            "chance": 18000,
+            "countmax": 2,
+            "image": "2674.png"
+        },
+        {
+            "itemid": 2678,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2678.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2544,
+            "chance": 27000,
+            "countmax": 13,
+            "image": "2544.png"
+        },
+        {
+            "itemid": 2744,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2744.png"
+        },
+        {
+            "itemid": 5811,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "5811.png"
+        },
+        {
+            "itemid": 5848,
+            "chance": 50,
+            "countmax": 1,
+            "image": "5848.png"
+        },
+        {
+            "itemid": 5821,
+            "chance": 200,
+            "countmax": 1,
+            "image": "5821.png"
+        },
+        {
+            "itemid": 5805,
+            "chance": 500,
+            "countmax": 1,
+            "image": "5805.png"
+        },
+        {
+            "itemid": 2485,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2485.png"
+        },
+        {
+            "itemid": 1967,
+            "chance": 300,
+            "countmax": 1,
+            "image": "1967.png"
+        },
+        {
+            "itemid": 2661,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2661.png"
+        },
+        {
+            "itemid": 2653,
+            "chance": 800,
+            "countmax": 1,
+            "image": "2653.png"
+        },
+        {
+            "itemid": 5800,
+            "chance": 300,
+            "countmax": 1,
+            "image": "5800.png"
+        },
+        {
+            "itemid": 2488,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2488.png"
+        },
+        {
+            "itemid": 5981,
+            "chance": 20,
+            "countmax": 1,
+            "image": "5981.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

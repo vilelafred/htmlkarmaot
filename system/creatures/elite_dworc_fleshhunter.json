@@ -1,0 +1,68 @@
+{
+    "name": "Elite Dworc Fleshhunter",
+    "lookType": 215,
+    "experience": 35,
+    "image": "215.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2229,
+            "chance": 5400,
+            "countmax": 3,
+            "image": "2229.png"
+        },
+        {
+            "itemid": 2568,
+            "chance": 16200,
+            "countmax": 1,
+            "image": "2568.png"
+        },
+        {
+            "itemid": 2467,
+            "chance": 39600,
+            "countmax": 1,
+            "image": "2467.png"
+        },
+        {
+            "itemid": 3967,
+            "chance": 900,
+            "countmax": 1,
+            "image": "3967.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 9900,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 3964,
+            "chance": 900,
+            "countmax": 1,
+            "image": "3964.png"
+        },
+        {
+            "itemid": 3965,
+            "chance": 1620,
+            "countmax": 1,
+            "image": "3965.png"
+        },
+        {
+            "itemid": 2411,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2411.png"
+        },
+        {
+            "itemid": 2541,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2541.png"
+        }
+    ]
+}

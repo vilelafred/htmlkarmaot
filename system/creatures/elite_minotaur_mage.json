@@ -1,0 +1,74 @@
+{
+    "name": "Elite Minotaur Mage",
+    "lookType": 23,
+    "experience": 150,
+    "image": "23.png",
+    "loot": [
+        {
+            "itemid": 2684,
+            "chance": 12000,
+            "countmax": 7,
+            "image": "2684.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2817,
+            "chance": 80000,
+            "countmax": 1,
+            "image": "2817.png"
+        },
+        {
+            "itemid": 2461,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2461.png"
+        },
+        {
+            "itemid": 2465,
+            "chance": 2400,
+            "countmax": 1,
+            "image": "2465.png"
+        },
+        {
+            "itemid": 2649,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2649.png"
+        },
+        {
+            "itemid": 2648,
+            "chance": 2400,
+            "countmax": 1,
+            "image": "2648.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2404,
+            "chance": 4800,
+            "countmax": 1,
+            "image": "2404.png"
+        },
+        {
+            "itemid": 2403,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2403.png"
+        }
+    ]
+}

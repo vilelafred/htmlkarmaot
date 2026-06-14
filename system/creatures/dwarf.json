@@ -1,0 +1,74 @@
+{
+    "name": "Dwarf",
+    "lookType": 69,
+    "experience": 45,
+    "image": "69.png",
+    "loot": [
+        {
+            "itemid": 2787,
+            "chance": 50000,
+            "countmax": 1,
+            "image": "2787.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 45000,
+            "countmax": 15,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2597,
+            "chance": 8000,
+            "countmax": 1,
+            "image": "2597.png"
+        },
+        {
+            "itemid": 2553,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2553.png"
+        },
+        {
+            "itemid": 2484,
+            "chance": 8000,
+            "countmax": 1,
+            "image": "2484.png"
+        },
+        {
+            "itemid": 2649,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2649.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2388,
+            "chance": 25000,
+            "countmax": 1,
+            "image": "2388.png"
+        },
+        {
+            "itemid": 2386,
+            "chance": 15000,
+            "countmax": 1,
+            "image": "2386.png"
+        },
+        {
+            "itemid": 2530,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2530.png"
+        },
+        {
+            "itemid": 2213,
+            "chance": 800,
+            "countmax": 1,
+            "image": "2213.png"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Quara Mantassin Scout",
+    "lookType": 72,
+    "experience": 100,
+    "image": "72.png",
+    "loot": [
+        {
+            "itemid": 2229,
+            "chance": 920,
+            "countmax": 1,
+            "image": "2229.png"
+        }
+    ]
+}

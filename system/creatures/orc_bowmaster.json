@@ -1,0 +1,44 @@
+{
+    "name": "orc bowmaster",
+    "lookType": 369,
+    "experience": 1000,
+    "image": "369.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 30000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 22000,
+            "countmax": 40,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2220,
+            "chance": 7700,
+            "countmax": 1,
+            "image": "2220.png"
+        },
+        {
+            "itemid": 2482,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2482.png"
+        },
+        {
+            "itemid": 2468,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2468.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Crab",
+    "lookType": 112,
+    "experience": 30,
+    "image": "112.png",
+    "loot": [
+        {
+            "itemid": 2667,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2667.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 10,
+            "image": "2148.png"
+        }
+    ]
+}

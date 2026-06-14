@@ -1,0 +1,50 @@
+{
+    "name": "Fury",
+    "lookType": 139,
+    "experience": 4500,
+    "image": "139.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 43275,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 43275,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 43275,
+            "countmax": 32,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 3275,
+            "countmax": 2,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2152,
+            "chance": 5375,
+            "countmax": 3,
+            "image": "2152.png"
+        },
+        {
+            "itemid": 2150,
+            "chance": 4375,
+            "countmax": 3,
+            "image": "2150.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

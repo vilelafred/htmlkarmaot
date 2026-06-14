@@ -1,0 +1,14 @@
+{
+    "name": "Troll Champion",
+    "lookType": 735,
+    "experience": 40,
+    "image": "735.png",
+    "loot": [
+        {
+            "itemid": 2512,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2512.png"
+        }
+    ]
+}

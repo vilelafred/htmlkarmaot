@@ -1,0 +1,50 @@
+{
+    "name": "Elite Blue Djinn",
+    "lookType": 80,
+    "experience": 190,
+    "image": "80.png",
+    "loot": [
+        {
+            "itemid": 2684,
+            "chance": 45000,
+            "countmax": 1,
+            "image": "2684.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 50,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2146,
+            "chance": 4500,
+            "countmax": 6,
+            "image": "2146.png"
+        },
+        {
+            "itemid": 2063,
+            "chance": 13500,
+            "countmax": 1,
+            "image": "2063.png"
+        },
+        {
+            "itemid": 2745,
+            "chance": 1620,
+            "countmax": 1,
+            "image": "2745.png"
+        },
+        {
+            "itemid": 2663,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2663.png"
+        },
+        {
+            "itemid": 1978,
+            "chance": 4500,
+            "countmax": 1,
+            "image": "1978.png"
+        }
+    ]
+}

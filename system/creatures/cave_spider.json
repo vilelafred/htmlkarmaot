@@ -1,0 +1,14 @@
+{
+    "name": "Cave Spider",
+    "lookType": 38,
+    "experience": 2000,
+    "image": "38.png",
+    "loot": [
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "name": "Elite Warlock",
+    "lookType": 130,
+    "experience": 4000,
+    "image": "130.png",
+    "loot": [
+        {
+            "itemid": 2689,
+            "chance": 13200,
+            "countmax": 1,
+            "image": "2689.png"
+        },
+        {
+            "itemid": 2792,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2792.png"
+        },
+        {
+            "itemid": 2679,
+            "chance": 24000,
+            "countmax": 4,
+            "image": "2679.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 36000,
+            "countmax": 80,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2146,
+            "chance": 3360,
+            "countmax": 1,
+            "image": "2146.png"
+        },
+        {
+            "itemid": 2151,
+            "chance": 1320,
+            "countmax": 1,
+            "image": "2151.png"
+        },
+        {
+            "itemid": 1986,
+            "chance": 480,
+            "countmax": 1,
+            "image": "1986.png"
+        },
+        {
+            "itemid": 2600,
+            "chance": 15600,
+            "countmax": 1,
+            "image": "2600.png"
+        },
+        {
+            "itemid": 2178,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2178.png"
+        },
+        {
+            "itemid": 2124,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2124.png"
+        },
+        {
+            "itemid": 2123,
+            "chance": 240,
+            "countmax": 1,
+            "image": "2123.png"
+        },
+        {
+            "itemid": 2466,
+            "chance": 360,
+            "countmax": 1,
+            "image": "2466.png"
+        },
+        {
+            "itemid": 2656,
+            "chance": 2400,
+            "countmax": 1,
+            "image": "2656.png"
+        },
+        {
+            "itemid": 2047,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2047.png"
+        },
+        {
+            "itemid": 2411,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2411.png"
+        },
+        {
+            "itemid": 2436,
+            "chance": 4800,
+            "countmax": 1,
+            "image": "2436.png"
+        },
+        {
+            "itemid": 2197,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2197.png"
+        },
+        {
+            "itemid": 2167,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2167.png"
+        }
+    ]
+}

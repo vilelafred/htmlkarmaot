@@ -1,0 +1,14 @@
+{
+    "name": "Filth Toad",
+    "lookType": 222,
+    "experience": 90,
+    "image": "222.png",
+    "loot": [
+        {
+            "itemid": 2667,
+            "chance": 22000,
+            "countmax": 1,
+            "image": "2667.png"
+        }
+    ]
+}

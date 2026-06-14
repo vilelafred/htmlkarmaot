@@ -1,0 +1,14 @@
+{
+    "name": "Thornback Tortoise",
+    "lookType": 361,
+    "experience": 150,
+    "image": "361.png",
+    "loot": [
+        {
+            "itemid": 2667,
+            "chance": 10800,
+            "countmax": 2,
+            "image": "2667.png"
+        }
+    ]
+}

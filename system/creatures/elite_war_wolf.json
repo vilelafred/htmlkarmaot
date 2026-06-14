@@ -1,0 +1,20 @@
+{
+    "name": "Elite War Wolf",
+    "lookType": 3,
+    "experience": 55,
+    "image": "3.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 48000,
+            "countmax": 2,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 80000,
+            "countmax": 4,
+            "image": "2666.png"
+        }
+    ]
+}

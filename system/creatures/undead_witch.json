@@ -1,0 +1,74 @@
+{
+    "name": "undead witch",
+    "lookType": 425,
+    "experience": 2950,
+    "image": "425.png",
+    "loot": [
+        {
+            "itemid": 2349,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "2349.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 70000,
+            "countmax": 80,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 50000,
+            "countmax": 85,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 35000,
+            "countmax": 95,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2143,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2143.png"
+        },
+        {
+            "itemid": 2072,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2072.png"
+        },
+        {
+            "itemid": 2074,
+            "chance": 200,
+            "countmax": 1,
+            "image": "2074.png"
+        },
+        {
+            "itemid": 2124,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2124.png"
+        },
+        {
+            "itemid": 2656,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2656.png"
+        },
+        {
+            "itemid": 2139,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2139.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

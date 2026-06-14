@@ -1,0 +1,62 @@
+{
+    "name": "Elite Lizard Templar",
+    "lookType": 113,
+    "experience": 145,
+    "image": "113.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2149,
+            "chance": 360,
+            "countmax": 1,
+            "image": "2149.png"
+        },
+        {
+            "itemid": 2457,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2457.png"
+        },
+        {
+            "itemid": 2463,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2463.png"
+        },
+        {
+            "itemid": 2406,
+            "chance": 24000,
+            "countmax": 1,
+            "image": "2406.png"
+        },
+        {
+            "itemid": 2376,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2376.png"
+        },
+        {
+            "itemid": 2394,
+            "chance": 840,
+            "countmax": 1,
+            "image": "2394.png"
+        },
+        {
+            "itemid": 3963,
+            "chance": 1080,
+            "countmax": 1,
+            "image": "3963.png"
+        },
+        {
+            "itemid": 3975,
+            "chance": 840,
+            "countmax": 1,
+            "image": "3975.png"
+        }
+    ]
+}

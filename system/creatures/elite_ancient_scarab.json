@@ -1,0 +1,86 @@
+{
+    "name": "Elite Ancient Scarab",
+    "lookType": 79,
+    "experience": 720,
+    "image": "79.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 79920,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 66,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 22,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2150,
+            "chance": 2160,
+            "countmax": 4,
+            "image": "2150.png"
+        },
+        {
+            "itemid": 2149,
+            "chance": 1800,
+            "countmax": 3,
+            "image": "2149.png"
+        },
+        {
+            "itemid": 2159,
+            "chance": 9000,
+            "countmax": 2,
+            "image": "2159.png"
+        },
+        {
+            "itemid": 2159,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2159.png"
+        },
+        {
+            "itemid": 2135,
+            "chance": 2160,
+            "countmax": 1,
+            "image": "2135.png"
+        },
+        {
+            "itemid": 2142,
+            "chance": 2520,
+            "countmax": 1,
+            "image": "2142.png"
+        },
+        {
+            "itemid": 2463,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2463.png"
+        },
+        {
+            "itemid": 2162,
+            "chance": 19620,
+            "countmax": 1,
+            "image": "2162.png"
+        },
+        {
+            "itemid": 2440,
+            "chance": 2340,
+            "countmax": 1,
+            "image": "2440.png"
+        },
+        {
+            "itemid": 2540,
+            "chance": 2700,
+            "countmax": 1,
+            "image": "2540.png"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "name": "crusader hero",
+    "lookType": 371,
+    "experience": 9750,
+    "image": "371.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 18000,
+            "countmax": 2,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2681,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2681.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2544,
+            "chance": 27000,
+            "countmax": 13,
+            "image": "2544.png"
+        },
+        {
+            "itemid": 1949,
+            "chance": 45000,
+            "countmax": 1,
+            "image": "1949.png"
+        },
+        {
+            "itemid": 2744,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2744.png"
+        },
+        {
+            "itemid": 2071,
+            "chance": 15000,
+            "countmax": 1,
+            "image": "2071.png"
+        },
+        {
+            "itemid": 2121,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2121.png"
+        },
+        {
+            "itemid": 2120,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2120.png"
+        },
+        {
+            "itemid": 2661,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2661.png"
+        },
+        {
+            "itemid": 2652,
+            "chance": 8000,
+            "countmax": 1,
+            "image": "2652.png"
+        },
+        {
+            "itemid": 2491,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2491.png"
+        },
+        {
+            "itemid": 2487,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2487.png"
+        },
+        {
+            "itemid": 2488,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2488.png"
+        },
+        {
+            "itemid": 5898,
+            "chance": 100,
+            "countmax": 1,
+            "image": "5898.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

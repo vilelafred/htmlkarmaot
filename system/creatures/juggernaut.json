@@ -1,0 +1,68 @@
+{
+    "name": "Juggernaut",
+    "lookType": 740,
+    "experience": 14000,
+    "image": "740.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 86200,
+            "countmax": 1,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 40825,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 40825,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 40825,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 40825,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2149,
+            "chance": 1825,
+            "countmax": 5,
+            "image": "2149.png"
+        },
+        {
+            "itemid": 2147,
+            "chance": 1525,
+            "countmax": 4,
+            "image": "2147.png"
+        },
+        {
+            "itemid": 2228,
+            "chance": 7000,
+            "countmax": 1,
+            "image": "2228.png"
+        },
+        {
+            "itemid": 2220,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2220.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

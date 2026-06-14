@@ -1,0 +1,14 @@
+{
+    "name": "Troll Guard",
+    "lookType": 281,
+    "experience": 25,
+    "image": "281.png",
+    "loot": [
+        {
+            "itemid": 2120,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2120.png"
+        }
+    ]
+}

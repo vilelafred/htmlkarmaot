@@ -1,0 +1,41 @@
+<h2 class="title news-title">
+	<div class="row">
+		<div class="column">{{ title }} ({{ date|date(config.news_date_format) }})</div>
+		{% if author is not empty %}
+		<div class="column right"><b>Author: </b><i>{{ author }}</i></div>
+		{% endif %}
+	</div>
+</h2>
+<div>
+	<div>
+		{{ content|raw }}
+	</div>
+	{% if comments is not null %}
+	<div style="text-align: right; margin-right: 10px;"><a href="{{ comments }}">» Comment on this news</a></div>
+	{% endif %}
+</div>
+<style type="text/css">
+	.news-title {
+		height: 49px;
+		margin: 0;
+		padding: 0;
+		font-size: 15px;
+		color: #FFFFFF;
+	}
+
+	.row {
+		display: table;
+		width: 100%;
+		table-layout: fixed;
+		border-spacing: 10px;
+	}
+
+	.column {
+		display: table-cell;
+	}
+
+	.right {
+		text-align: right;
+		width: 130px;
+	}
+</style>

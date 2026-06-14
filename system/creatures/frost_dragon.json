@@ -1,0 +1,32 @@
+{
+    "name": "Frost Dragon",
+    "lookType": 714,
+    "experience": 2100,
+    "image": "714.png",
+    "loot": [
+        {
+            "itemid": 1976,
+            "chance": 8500,
+            "countmax": 1,
+            "image": "1976.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 100,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 5937,
+            "chance": 90,
+            "countmax": 2,
+            "image": "5937.png"
+        },
+        {
+            "itemid": 2672,
+            "chance": 80370,
+            "countmax": 5,
+            "image": "2672.png"
+        }
+    ]
+}

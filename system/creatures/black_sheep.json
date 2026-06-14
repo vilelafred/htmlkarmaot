@@ -1,0 +1,14 @@
+{
+    "name": "Black Sheep",
+    "lookType": 13,
+    "experience": 0,
+    "image": "13.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 70000,
+            "countmax": 4,
+            "image": "2666.png"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Elite Elf",
+    "lookType": 62,
+    "experience": 42,
+    "image": "62.png",
+    "loot": [
+        {
+            "itemid": 2674,
+            "chance": 36000,
+            "countmax": 2,
+            "image": "2674.png"
+        },
+        {
+            "itemid": 2544,
+            "chance": 12600,
+            "countmax": 3,
+            "image": "2544.png"
+        },
+        {
+            "itemid": 2482,
+            "chance": 14400,
+            "countmax": 1,
+            "image": "2482.png"
+        },
+        {
+            "itemid": 2643,
+            "chance": 14400,
+            "countmax": 1,
+            "image": "2643.png"
+        },
+        {
+            "itemid": 2484,
+            "chance": 14400,
+            "countmax": 1,
+            "image": "2484.png"
+        },
+        {
+            "itemid": 2397,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2397.png"
+        },
+        {
+            "itemid": 2511,
+            "chance": 23400,
+            "countmax": 1,
+            "image": "2511.png"
+        }
+    ]
+}

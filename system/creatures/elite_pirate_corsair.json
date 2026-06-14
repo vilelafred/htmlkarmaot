@@ -1,0 +1,14 @@
+{
+    "name": "Elite Pirate Corsair",
+    "lookType": 713,
+    "experience": 350,
+    "image": "713.png",
+    "loot": [
+        {
+            "itemid": 8176,
+            "chance": 12000,
+            "countmax": 20,
+            "image": "8176.png"
+        }
+    ]
+}

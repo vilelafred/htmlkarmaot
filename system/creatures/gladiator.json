@@ -1,0 +1,68 @@
+{
+    "name": "Gladiator",
+    "lookType": 131,
+    "experience": 90,
+    "image": "131.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 49500,
+            "countmax": 30,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2376,
+            "chance": 12620,
+            "countmax": 1,
+            "image": "2376.png"
+        },
+        {
+            "itemid": 2398,
+            "chance": 11160,
+            "countmax": 1,
+            "image": "2398.png"
+        },
+        {
+            "itemid": 2458,
+            "chance": 5200,
+            "countmax": 1,
+            "image": "2458.png"
+        },
+        {
+            "itemid": 2459,
+            "chance": 590,
+            "countmax": 1,
+            "image": "2459.png"
+        },
+        {
+            "itemid": 2465,
+            "chance": 2750,
+            "countmax": 1,
+            "image": "2465.png"
+        },
+        {
+            "itemid": 2509,
+            "chance": 840,
+            "countmax": 1,
+            "image": "2509.png"
+        },
+        {
+            "itemid": 2510,
+            "chance": 9950,
+            "countmax": 1,
+            "image": "2510.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 19000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2508,
+            "chance": 340,
+            "countmax": 1,
+            "image": "2508.png"
+        }
+    ]
+}

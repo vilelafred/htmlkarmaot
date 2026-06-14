@@ -1,0 +1,14 @@
+{
+    "name": "Wailing Widow",
+    "lookType": 347,
+    "experience": 450,
+    "image": "347.png",
+    "loot": [
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

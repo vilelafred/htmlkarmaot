@@ -1,0 +1,86 @@
+{
+    "name": "Elder Beholder",
+    "lookType": 108,
+    "experience": 280,
+    "image": "108.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 90000,
+            "countmax": 24,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 32,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 70000,
+            "countmax": 35,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 3972,
+            "chance": 500,
+            "countmax": 1,
+            "image": "3972.png"
+        },
+        {
+            "itemid": 2377,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2377.png"
+        },
+        {
+            "itemid": 2394,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2394.png"
+        },
+        {
+            "itemid": 2397,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2397.png"
+        },
+        {
+            "itemid": 2509,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2509.png"
+        },
+        {
+            "itemid": 2518,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2518.png"
+        },
+        {
+            "itemid": 2175,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2175.png"
+        }
+    ]
+}

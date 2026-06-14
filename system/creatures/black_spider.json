@@ -1,0 +1,80 @@
+{
+    "name": "black spider",
+    "lookType": 349,
+    "experience": 1900,
+    "image": "349.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 33300,
+            "countmax": 55,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 99900,
+            "countmax": 11,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 66600,
+            "countmax": 33,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2463,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2463.png"
+        },
+        {
+            "itemid": 2478,
+            "chance": 8000,
+            "countmax": 1,
+            "image": "2478.png"
+        },
+        {
+            "itemid": 2457,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2457.png"
+        },
+        {
+            "itemid": 2477,
+            "chance": 300,
+            "countmax": 1,
+            "image": "2477.png"
+        },
+        {
+            "itemid": 2476,
+            "chance": 300,
+            "countmax": 1,
+            "image": "2476.png"
+        },
+        {
+            "itemid": 2171,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2171.png"
+        },
+        {
+            "itemid": 5928,
+            "chance": 200,
+            "countmax": 1,
+            "image": "5928.png"
+        },
+        {
+            "itemid": 5920,
+            "chance": 300,
+            "countmax": 1,
+            "image": "5920.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

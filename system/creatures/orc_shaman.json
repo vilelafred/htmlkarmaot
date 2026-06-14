@@ -1,0 +1,62 @@
+{
+    "name": "Orc Shaman",
+    "lookType": 6,
+    "experience": 110,
+    "image": "6.png",
+    "loot": [
+        {
+            "itemid": 2686,
+            "chance": 11000,
+            "countmax": 2,
+            "image": "2686.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 90000,
+            "countmax": 5,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 11000,
+            "countmax": 1,
+            "image": "1987.png"
+        },
+        {
+            "itemid": 2458,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2458.png"
+        },
+        {
+            "itemid": 2464,
+            "chance": 4000,
+            "countmax": 1,
+            "image": "2464.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2389,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2389.png"
+        },
+        {
+            "itemid": 2401,
+            "chance": 7000,
+            "countmax": 1,
+            "image": "2401.png"
+        },
+        {
+            "itemid": 1973,
+            "chance": 4500,
+            "countmax": 1,
+            "image": "1973.png"
+        }
+    ]
+}

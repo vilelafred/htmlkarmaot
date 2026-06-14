@@ -1,0 +1,38 @@
+{
+    "name": "Uruk hai",
+    "lookType": 379,
+    "experience": 9500,
+    "image": "379.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 17000,
+            "countmax": 1,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 55000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2491,
+            "chance": 11000,
+            "countmax": 1,
+            "image": "2491.png"
+        },
+        {
+            "itemid": 2487,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2487.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Elite Minotaur Guard",
+    "lookType": 29,
+    "experience": 160,
+    "image": "29.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 72000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2465,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "2465.png"
+        },
+        {
+            "itemid": 2464,
+            "chance": 2040,
+            "countmax": 1,
+            "image": "2464.png"
+        },
+        {
+            "itemid": 2648,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2648.png"
+        },
+        {
+            "itemid": 2649,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2649.png"
+        },
+        {
+            "itemid": 2387,
+            "chance": 960,
+            "countmax": 1,
+            "image": "2387.png"
+        },
+        {
+            "itemid": 2388,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2388.png"
+        },
+        {
+            "itemid": 2513,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2513.png"
+        },
+        {
+            "itemid": 2580,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2580.png"
+        }
+    ]
+}

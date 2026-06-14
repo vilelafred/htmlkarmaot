@@ -1,0 +1,44 @@
+{
+    "name": "Elite Swamp Troll",
+    "lookType": 76,
+    "experience": 25,
+    "image": "76.png",
+    "loot": [
+        {
+            "itemid": 2667,
+            "chance": 72000,
+            "countmax": 1,
+            "image": "2667.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 5,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2643,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2643.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2379,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "2379.png"
+        },
+        {
+            "itemid": 2580,
+            "chance": 120,
+            "countmax": 1,
+            "image": "2580.png"
+        }
+    ]
+}

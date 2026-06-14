@@ -1,0 +1,62 @@
+{
+    "name": "Pirate Buccaneer",
+    "lookType": 97,
+    "experience": 250,
+    "image": "97.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 67740,
+            "countmax": 59,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2410,
+            "chance": 4000,
+            "countmax": 6,
+            "image": "2410.png"
+        },
+        {
+            "itemid": 2385,
+            "chance": 10750,
+            "countmax": 1,
+            "image": "2385.png"
+        },
+        {
+            "itemid": 2238,
+            "chance": 9750,
+            "countmax": 1,
+            "image": "2238.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 8800,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2376,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2376.png"
+        },
+        {
+            "itemid": 2513,
+            "chance": 3500,
+            "countmax": 1,
+            "image": "2513.png"
+        },
+        {
+            "itemid": 1957,
+            "chance": 1100,
+            "countmax": 1,
+            "image": "1957.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

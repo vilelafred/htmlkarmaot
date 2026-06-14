@@ -1,0 +1,56 @@
+{
+    "name": "Green Djinn",
+    "lookType": 51,
+    "experience": 190,
+    "image": "51.png",
+    "loot": [
+        {
+            "itemid": 2696,
+            "chance": 25000,
+            "countmax": 1,
+            "image": "2696.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 35000,
+            "countmax": 50,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2149,
+            "chance": 700,
+            "countmax": 8,
+            "image": "2149.png"
+        },
+        {
+            "itemid": 2747,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2747.png"
+        },
+        {
+            "itemid": 2359,
+            "chance": 7500,
+            "countmax": 1,
+            "image": "2359.png"
+        },
+        {
+            "itemid": 2663,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2663.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 20,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 1980,
+            "chance": 2500,
+            "countmax": 1,
+            "image": "1980.png"
+        }
+    ]
+}

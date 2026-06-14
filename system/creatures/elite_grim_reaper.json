@@ -1,0 +1,14 @@
+{
+    "name": "Elite Grim Reaper",
+    "lookType": 341,
+    "experience": 5500,
+    "image": "341.png",
+    "loot": [
+        {
+            "itemid": 2162,
+            "chance": 5820,
+            "countmax": 1,
+            "image": "2162.png"
+        }
+    ]
+}

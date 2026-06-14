@@ -1,0 +1,20 @@
+{
+    "name": "Mutated Bat",
+    "lookType": 307,
+    "experience": 615,
+    "image": "307.png",
+    "loot": [
+        {
+            "itemid": 9808,
+            "chance": 12530,
+            "countmax": 1,
+            "image": "9808.png"
+        },
+        {
+            "itemid": 9809,
+            "chance": 12530,
+            "countmax": 2,
+            "image": "9809.png"
+        }
+    ]
+}

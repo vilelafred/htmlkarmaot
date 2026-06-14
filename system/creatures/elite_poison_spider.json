@@ -1,0 +1,14 @@
+{
+    "name": "Elite Poison Spider",
+    "lookType": 36,
+    "experience": 22,
+    "image": "36.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 30000,
+            "countmax": 4,
+            "image": "2148.png"
+        }
+    ]
+}

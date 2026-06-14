@@ -1,0 +1,86 @@
+{
+    "name": "Basilisk",
+    "lookType": 412,
+    "experience": 8100,
+    "image": "412.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 60000,
+            "countmax": 3,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 90000,
+            "countmax": 4,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 40000,
+            "countmax": 50,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2146,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2146.png"
+        },
+        {
+            "itemid": 4850,
+            "chance": 900,
+            "countmax": 1,
+            "image": "4850.png"
+        },
+        {
+            "itemid": 2177,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2177.png"
+        },
+        {
+            "itemid": 2476,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2476.png"
+        },
+        {
+            "itemid": 2475,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2475.png"
+        },
+        {
+            "itemid": 2498,
+            "chance": 200,
+            "countmax": 1,
+            "image": "2498.png"
+        },
+        {
+            "itemid": 2195,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2195.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

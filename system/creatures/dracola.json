@@ -1,0 +1,44 @@
+{
+    "name": "Dracola",
+    "lookType": 248,
+    "experience": 11000,
+    "image": "248.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 49850,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 49850,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 49850,
+            "countmax": 8,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2177,
+            "chance": 55550,
+            "countmax": 1,
+            "image": "2177.png"
+        },
+        {
+            "itemid": 2152,
+            "chance": 34725,
+            "countmax": 4,
+            "image": "2152.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

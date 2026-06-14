@@ -1,0 +1,20 @@
+{
+    "name": "Elite Polar Bear",
+    "lookType": 42,
+    "experience": 28,
+    "image": "42.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 60000,
+            "countmax": 2,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 80000,
+            "countmax": 4,
+            "image": "2666.png"
+        }
+    ]
+}

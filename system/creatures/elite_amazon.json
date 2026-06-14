@@ -1,0 +1,62 @@
+{
+    "name": "Elite Amazon",
+    "lookType": 245,
+    "experience": 1320,
+    "image": "245.png",
+    "loot": [
+        {
+            "itemid": 2680,
+            "chance": 18000,
+            "countmax": 2,
+            "image": "2680.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2543,
+            "chance": 27000,
+            "countmax": 3,
+            "image": "2543.png"
+        },
+        {
+            "itemid": 2657,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2657.png"
+        },
+        {
+            "itemid": 2457,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2457.png"
+        },
+        {
+            "itemid": 5811,
+            "chance": 500,
+            "countmax": 1,
+            "image": "5811.png"
+        },
+        {
+            "itemid": 5787,
+            "chance": 200,
+            "countmax": 1,
+            "image": "5787.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

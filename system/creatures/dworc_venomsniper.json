@@ -1,0 +1,80 @@
+{
+    "name": "Dworc Venomsniper",
+    "lookType": 216,
+    "experience": 30,
+    "image": "216.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2229,
+            "chance": 1000,
+            "countmax": 2,
+            "image": "2229.png"
+        },
+        {
+            "itemid": 2545,
+            "chance": 5000,
+            "countmax": 3,
+            "image": "2545.png"
+        },
+        {
+            "itemid": 2410,
+            "chance": 8000,
+            "countmax": 2,
+            "image": "2410.png"
+        },
+        {
+            "itemid": 2467,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2467.png"
+        },
+        {
+            "itemid": 3967,
+            "chance": 500,
+            "countmax": 1,
+            "image": "3967.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 3983,
+            "chance": 500,
+            "countmax": 1,
+            "image": "3983.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 5500,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2411,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2411.png"
+        },
+        {
+            "itemid": 2172,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2172.png"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Tiquandas Revenge",
+    "lookType": 120,
+    "experience": 2635,
+    "image": "120.png",
+    "loot": [
+        {
+            "itemid": 2792,
+            "chance": 25000,
+            "countmax": 5,
+            "image": "2792.png"
+        },
+        {
+            "itemid": 2671,
+            "chance": 50000,
+            "countmax": 2,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 70000,
+            "countmax": 4,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 100000,
+            "countmax": 28,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 100000,
+            "countmax": 90,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 5937,
+            "chance": 90,
+            "countmax": 2,
+            "image": "5937.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        }
+    ]
+}

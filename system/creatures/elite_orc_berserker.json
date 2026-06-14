@@ -1,0 +1,50 @@
+{
+    "name": "Elite Orc Berserker",
+    "lookType": 8,
+    "experience": 195,
+    "image": "8.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 20400,
+            "countmax": 1,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 66000,
+            "countmax": 30,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2458,
+            "chance": 13200,
+            "countmax": 1,
+            "image": "2458.png"
+        },
+        {
+            "itemid": 2464,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2464.png"
+        },
+        {
+            "itemid": 2044,
+            "chance": 9600,
+            "countmax": 1,
+            "image": "2044.png"
+        },
+        {
+            "itemid": 2381,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2381.png"
+        },
+        {
+            "itemid": 2378,
+            "chance": 7200,
+            "countmax": 1,
+            "image": "2378.png"
+        }
+    ]
+}

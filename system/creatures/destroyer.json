@@ -1,0 +1,92 @@
+{
+    "name": "Destroyer",
+    "lookType": 258,
+    "experience": 2500,
+    "image": "258.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 39275,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 39275,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 39275,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 39275,
+            "countmax": 41,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 54525,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2150,
+            "chance": 5550,
+            "countmax": 2,
+            "image": "2150.png"
+        },
+        {
+            "itemid": 2416,
+            "chance": 15700,
+            "countmax": 1,
+            "image": "2416.png"
+        },
+        {
+            "itemid": 2463,
+            "chance": 5050,
+            "countmax": 1,
+            "image": "2463.png"
+        },
+        {
+            "itemid": 2553,
+            "chance": 6600,
+            "countmax": 1,
+            "image": "2553.png"
+        },
+        {
+            "itemid": 2178,
+            "chance": 800,
+            "countmax": 1,
+            "image": "2178.png"
+        },
+        {
+            "itemid": 2489,
+            "chance": 11100,
+            "countmax": 1,
+            "image": "2489.png"
+        },
+        {
+            "itemid": 2645,
+            "chance": 1100,
+            "countmax": 1,
+            "image": "2645.png"
+        },
+        {
+            "itemid": 2546,
+            "chance": 5625,
+            "countmax": 12,
+            "image": "2546.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Ancient Scarab",
+    "lookType": 79,
+    "experience": 720,
+    "image": "79.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 44400,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 75700,
+            "countmax": 66,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 99900,
+            "countmax": 22,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2150,
+            "chance": 1200,
+            "countmax": 4,
+            "image": "2150.png"
+        },
+        {
+            "itemid": 2149,
+            "chance": 1000,
+            "countmax": 3,
+            "image": "2149.png"
+        },
+        {
+            "itemid": 2159,
+            "chance": 5000,
+            "countmax": 2,
+            "image": "2159.png"
+        },
+        {
+            "itemid": 2159,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2159.png"
+        },
+        {
+            "itemid": 2135,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2135.png"
+        },
+        {
+            "itemid": 2142,
+            "chance": 1400,
+            "countmax": 1,
+            "image": "2142.png"
+        },
+        {
+            "itemid": 2463,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2463.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2162,
+            "chance": 10900,
+            "countmax": 1,
+            "image": "2162.png"
+        },
+        {
+            "itemid": 2440,
+            "chance": 1300,
+            "countmax": 1,
+            "image": "2440.png"
+        },
+        {
+            "itemid": 2540,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2540.png"
+        }
+    ]
+}

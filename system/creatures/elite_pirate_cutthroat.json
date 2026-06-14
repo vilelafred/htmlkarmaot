@@ -1,0 +1,14 @@
+{
+    "name": "Elite Pirate Cutthroat",
+    "lookType": 711,
+    "experience": 175,
+    "image": "711.png",
+    "loot": [
+        {
+            "itemid": 8176,
+            "chance": 12000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

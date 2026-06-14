@@ -1,0 +1,20 @@
+{
+    "name": "Wolf",
+    "lookType": 27,
+    "experience": 18,
+    "image": "27.png",
+    "loot": [
+        {
+            "itemid": 3976,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "3976.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 50000,
+            "countmax": 2,
+            "image": "2666.png"
+        }
+    ]
+}

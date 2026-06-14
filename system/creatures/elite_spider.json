@@ -1,0 +1,14 @@
+{
+    "name": "Elite Spider",
+    "lookType": 30,
+    "experience": 12,
+    "image": "30.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 42000,
+            "countmax": 5,
+            "image": "2148.png"
+        }
+    ]
+}

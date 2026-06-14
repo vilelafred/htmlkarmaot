@@ -1,0 +1,56 @@
+{
+    "name": "Betrayed Wraith",
+    "lookType": 254,
+    "experience": 3500,
+    "image": "254.png",
+    "loot": [
+        {
+            "itemid": 2417,
+            "chance": 5650,
+            "countmax": 1,
+            "image": "2417.png"
+        },
+        {
+            "itemid": 2387,
+            "chance": 30275,
+            "countmax": 1,
+            "image": "2387.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 43100,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 43100,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 43100,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2152,
+            "chance": 4075,
+            "countmax": 8,
+            "image": "2152.png"
+        },
+        {
+            "itemid": 2383,
+            "chance": 5925,
+            "countmax": 1,
+            "image": "2383.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

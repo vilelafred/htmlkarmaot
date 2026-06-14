@@ -1,0 +1,14 @@
+{
+    "name": "Red Magician",
+    "lookType": 240,
+    "experience": 7660,
+    "image": "240.png",
+    "loot": [
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

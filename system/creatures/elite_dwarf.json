@@ -1,0 +1,68 @@
+{
+    "name": "Elite Dwarf",
+    "lookType": 69,
+    "experience": 45,
+    "image": "69.png",
+    "loot": [
+        {
+            "itemid": 2787,
+            "chance": 80000,
+            "countmax": 1,
+            "image": "2787.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 15,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2597,
+            "chance": 14400,
+            "countmax": 1,
+            "image": "2597.png"
+        },
+        {
+            "itemid": 2553,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2553.png"
+        },
+        {
+            "itemid": 2484,
+            "chance": 14400,
+            "countmax": 1,
+            "image": "2484.png"
+        },
+        {
+            "itemid": 2649,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2649.png"
+        },
+        {
+            "itemid": 2388,
+            "chance": 45000,
+            "countmax": 1,
+            "image": "2388.png"
+        },
+        {
+            "itemid": 2386,
+            "chance": 27000,
+            "countmax": 1,
+            "image": "2386.png"
+        },
+        {
+            "itemid": 2530,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2530.png"
+        },
+        {
+            "itemid": 2213,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "2213.png"
+        }
+    ]
+}

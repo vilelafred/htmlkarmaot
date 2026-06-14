@@ -1,0 +1,68 @@
+{
+    "name": "Elite Beholder",
+    "lookType": 17,
+    "experience": 170,
+    "image": "17.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 12,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 16,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2377,
+            "chance": 7200,
+            "countmax": 1,
+            "image": "2377.png"
+        },
+        {
+            "itemid": 2397,
+            "chance": 16200,
+            "countmax": 1,
+            "image": "2397.png"
+        },
+        {
+            "itemid": 2394,
+            "chance": 12600,
+            "countmax": 1,
+            "image": "2394.png"
+        },
+        {
+            "itemid": 2509,
+            "chance": 7200,
+            "countmax": 1,
+            "image": "2509.png"
+        },
+        {
+            "itemid": 2512,
+            "chance": 5400,
+            "countmax": 1,
+            "image": "2512.png"
+        },
+        {
+            "itemid": 2518,
+            "chance": 2700,
+            "countmax": 1,
+            "image": "2518.png"
+        },
+        {
+            "itemid": 2175,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2175.png"
+        }
+    ]
+}

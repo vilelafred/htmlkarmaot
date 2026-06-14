@@ -1,0 +1,68 @@
+{
+    "name": "Elite Rotworm",
+    "lookType": 26,
+    "experience": 40,
+    "image": "26.png",
+    "loot": [
+        {
+            "itemid": 3976,
+            "chance": 60000,
+            "countmax": 5,
+            "image": "3976.png"
+        },
+        {
+            "itemid": 2671,
+            "chance": 24000,
+            "countmax": 1,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 24000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 72000,
+            "countmax": 25,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 36000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2480,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2480.png"
+        },
+        {
+            "itemid": 2376,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2376.png"
+        },
+        {
+            "itemid": 2398,
+            "chance": 5400,
+            "countmax": 1,
+            "image": "2398.png"
+        },
+        {
+            "itemid": 2412,
+            "chance": 360,
+            "countmax": 1,
+            "image": "2412.png"
+        },
+        {
+            "itemid": 2530,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2530.png"
+        }
+    ]
+}

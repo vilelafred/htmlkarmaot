@@ -1,0 +1,110 @@
+{
+    "name": "Hydra",
+    "lookType": 121,
+    "experience": 2100,
+    "image": "121.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 60000,
+            "countmax": 3,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 90000,
+            "countmax": 4,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 40000,
+            "countmax": 50,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2146,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2146.png"
+        },
+        {
+            "itemid": 4850,
+            "chance": 900,
+            "countmax": 1,
+            "image": "4850.png"
+        },
+        {
+            "itemid": 2177,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2177.png"
+        },
+        {
+            "itemid": 2476,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2476.png"
+        },
+        {
+            "itemid": 5937,
+            "chance": 90,
+            "countmax": 2,
+            "image": "5937.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 100,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2475,
+            "chance": 1400,
+            "countmax": 1,
+            "image": "2475.png"
+        },
+        {
+            "itemid": 2498,
+            "chance": 900,
+            "countmax": 1,
+            "image": "2498.png"
+        },
+        {
+            "itemid": 2195,
+            "chance": 800,
+            "countmax": 1,
+            "image": "2195.png"
+        },
+        {
+            "itemid": 2536,
+            "chance": 1100,
+            "countmax": 1,
+            "image": "2536.png"
+        },
+        {
+            "itemid": 2197,
+            "chance": 800,
+            "countmax": 1,
+            "image": "2197.png"
+        },
+        {
+            "itemid": 2214,
+            "chance": 2200,
+            "countmax": 1,
+            "image": "2214.png"
+        }
+    ]
+}

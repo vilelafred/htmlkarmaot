@@ -1,0 +1,38 @@
+{
+    "name": "Pirate Cutthroat",
+    "lookType": 96,
+    "experience": 175,
+    "image": "96.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 78000,
+            "countmax": 48,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2376,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2376.png"
+        },
+        {
+            "itemid": 2483,
+            "chance": 2600,
+            "countmax": 1,
+            "image": "2483.png"
+        },
+        {
+            "itemid": 2509,
+            "chance": 3300,
+            "countmax": 1,
+            "image": "2509.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

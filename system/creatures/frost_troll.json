@@ -1,0 +1,20 @@
+{
+    "name": "Frost Troll",
+    "lookType": 53,
+    "experience": 23,
+    "image": "53.png",
+    "loot": [
+        {
+            "itemid": 2512,
+            "chance": 15850,
+            "countmax": 1,
+            "image": "2512.png"
+        },
+        {
+            "itemid": 2667,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2667.png"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Troll",
+    "lookType": 15,
+    "experience": 20,
+    "image": "15.png",
+    "loot": [
+        {
+            "itemid": 2120,
+            "chance": 7950,
+            "countmax": 1,
+            "image": "2120.png"
+        },
+        {
+            "itemid": 2512,
+            "chance": 4730,
+            "countmax": 1,
+            "image": "2512.png"
+        },
+        {
+            "itemid": 26654,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "26654.png"
+        }
+    ]
+}

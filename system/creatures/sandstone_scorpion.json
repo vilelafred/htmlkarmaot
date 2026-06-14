@@ -1,0 +1,20 @@
+{
+    "name": "Sandstone Scorpion",
+    "lookType": 398,
+    "experience": 680,
+    "image": "398.png",
+    "loot": [
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

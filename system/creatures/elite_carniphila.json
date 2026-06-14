@@ -1,0 +1,62 @@
+{
+    "name": "Elite Carniphila",
+    "lookType": 120,
+    "experience": 150,
+    "image": "120.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 72000,
+            "countmax": 1,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 80000,
+            "countmax": 2,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2792,
+            "chance": 14400,
+            "countmax": 1,
+            "image": "2792.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 30,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 72000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2804,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2804.png"
+        },
+        {
+            "itemid": 2802,
+            "chance": 900,
+            "countmax": 1,
+            "image": "2802.png"
+        },
+        {
+            "itemid": 2802,
+            "chance": 900,
+            "countmax": 1,
+            "image": "2802.png"
+        },
+        {
+            "itemid": 2747,
+            "chance": 900,
+            "countmax": 1,
+            "image": "2747.png"
+        }
+    ]
+}

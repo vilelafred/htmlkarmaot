@@ -1,0 +1,74 @@
+{
+    "name": "Lava Golem",
+    "lookType": 333,
+    "experience": 4300,
+    "image": "333.png",
+    "loot": [
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        },
+        {
+            "itemid": 2398,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2398.png"
+        },
+        {
+            "itemid": 2509,
+            "chance": 15000,
+            "countmax": 1,
+            "image": "2509.png"
+        },
+        {
+            "itemid": 1294,
+            "chance": 31450,
+            "countmax": 6,
+            "image": "1294.png"
+        },
+        {
+            "itemid": 2395,
+            "chance": 2100,
+            "countmax": 1,
+            "image": "2395.png"
+        },
+        {
+            "itemid": 5813,
+            "chance": 125,
+            "countmax": 1,
+            "image": "5813.png"
+        },
+        {
+            "itemid": 5948,
+            "chance": 125,
+            "countmax": 1,
+            "image": "5948.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 19075,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 19075,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 19075,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 19075,
+            "countmax": 100,
+            "image": "2148.png"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Orc Berserker",
+    "lookType": 8,
+    "experience": 195,
+    "image": "8.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 17000,
+            "countmax": 1,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 55000,
+            "countmax": 30,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2458,
+            "chance": 11000,
+            "countmax": 1,
+            "image": "2458.png"
+        },
+        {
+            "itemid": 2464,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2464.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2044,
+            "chance": 8000,
+            "countmax": 1,
+            "image": "2044.png"
+        },
+        {
+            "itemid": 2381,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2381.png"
+        },
+        {
+            "itemid": 2378,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2378.png"
+        }
+    ]
+}

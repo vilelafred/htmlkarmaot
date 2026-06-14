@@ -1,0 +1,14 @@
+{
+    "name": "Elite Winter Wolf",
+    "lookType": 52,
+    "experience": 20,
+    "image": "52.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 72000,
+            "countmax": 2,
+            "image": "2666.png"
+        }
+    ]
+}

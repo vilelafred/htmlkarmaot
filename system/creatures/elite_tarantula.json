@@ -1,0 +1,44 @@
+{
+    "name": "Elite Tarantula",
+    "lookType": 219,
+    "experience": 120,
+    "image": "219.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 36000,
+            "countmax": 40,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2457,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2457.png"
+        },
+        {
+            "itemid": 2478,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2478.png"
+        },
+        {
+            "itemid": 2510,
+            "chance": 2400,
+            "countmax": 1,
+            "image": "2510.png"
+        },
+        {
+            "itemid": 2169,
+            "chance": 840,
+            "countmax": 1,
+            "image": "2169.png"
+        }
+    ]
+}

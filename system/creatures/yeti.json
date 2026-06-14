@@ -1,0 +1,62 @@
+{
+    "name": "Yeti",
+    "lookType": 110,
+    "experience": 460,
+    "image": "110.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 35000,
+            "countmax": 6,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 75000,
+            "countmax": 4,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 30000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2111,
+            "chance": 50000,
+            "countmax": 22,
+            "image": "2111.png"
+        },
+        {
+            "itemid": 2129,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2129.png"
+        },
+        {
+            "itemid": 2644,
+            "chance": 800,
+            "countmax": 1,
+            "image": "2644.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "War Golem",
+    "lookType": 163,
+    "experience": 1250,
+    "image": "163.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 34000,
+            "countmax": 70,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 34000,
+            "countmax": 61,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2145,
+            "chance": 5000,
+            "countmax": 3,
+            "image": "2145.png"
+        },
+        {
+            "itemid": 2510,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2510.png"
+        },
+        {
+            "itemid": 2377,
+            "chance": 5500,
+            "countmax": 1,
+            "image": "2377.png"
+        },
+        {
+            "itemid": 2394,
+            "chance": 7000,
+            "countmax": 1,
+            "image": "2394.png"
+        },
+        {
+            "itemid": 2513,
+            "chance": 6500,
+            "countmax": 1,
+            "image": "2513.png"
+        },
+        {
+            "itemid": 2438,
+            "chance": 3500,
+            "countmax": 1,
+            "image": "2438.png"
+        },
+        {
+            "itemid": 2273,
+            "chance": 1600,
+            "countmax": 1,
+            "image": "2273.png"
+        },
+        {
+            "itemid": 2168,
+            "chance": 190,
+            "countmax": 1,
+            "image": "2168.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

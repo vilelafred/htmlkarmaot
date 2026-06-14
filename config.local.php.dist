@@ -1,0 +1,19 @@
+<?php
+// Copy to config.local.php and adjust for your environment.
+$config['installed'] = true;
+$config['env'] = 'dev'; // dev or prod
+$config['mail_enabled'] = false;
+$config['server_path'] = '/home/nekiro/';
+$config['mail_admin'] = 'CHANGE_ME@example.com';
+$config['mail_address'] = 'CHANGE_ME@example.com';
+$config['date_timezone'] = 'America/Sao_Paulo';
+$config['client'] = '740';
+$config['gifts_system'] = true;
+$config['anonymous_usage_statistics'] = true;
+$config['session_prefix'] = 'myaac_CHANGE_ME_';
+$config['cache_prefix'] = 'myaac_CHANGE_ME_';
+
+$config['highscores_ids_hidden'] = array();
+$config['recaptcha_enabled'] = false;
+$config['outfit_images_url'] = '/outfits/animoutfit.php';
+$config['gzip_output'] = true;

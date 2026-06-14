@@ -1,0 +1,56 @@
+{
+    "name": "Goblin Scavenger",
+    "lookType": 176,
+    "experience": 37,
+    "image": "176.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 31500,
+            "countmax": 9,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 1294,
+            "chance": 9000,
+            "countmax": 4,
+            "image": "1294.png"
+        },
+        {
+            "itemid": 2379,
+            "chance": 22500,
+            "countmax": 1,
+            "image": "2379.png"
+        },
+        {
+            "itemid": 2230,
+            "chance": 15000,
+            "countmax": 1,
+            "image": "2230.png"
+        },
+        {
+            "itemid": 2559,
+            "chance": 14250,
+            "countmax": 1,
+            "image": "2559.png"
+        },
+        {
+            "itemid": 2667,
+            "chance": 12500,
+            "countmax": 1,
+            "image": "2667.png"
+        },
+        {
+            "itemid": 2461,
+            "chance": 12500,
+            "countmax": 1,
+            "image": "2461.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

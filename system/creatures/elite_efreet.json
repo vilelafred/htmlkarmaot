@@ -1,0 +1,68 @@
+{
+    "name": "Elite Efreet",
+    "lookType": 103,
+    "experience": 300,
+    "image": "103.png",
+    "loot": [
+        {
+            "itemid": 2673,
+            "chance": 45000,
+            "countmax": 12,
+            "image": "2673.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 50,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 80,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2149,
+            "chance": 1800,
+            "countmax": 8,
+            "image": "2149.png"
+        },
+        {
+            "itemid": 2155,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "2155.png"
+        },
+        {
+            "itemid": 1860,
+            "chance": 4500,
+            "countmax": 1,
+            "image": "1860.png"
+        },
+        {
+            "itemid": 2359,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "2359.png"
+        },
+        {
+            "itemid": 2663,
+            "chance": 360,
+            "countmax": 1,
+            "image": "2663.png"
+        },
+        {
+            "itemid": 2442,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "2442.png"
+        },
+        {
+            "itemid": 2187,
+            "chance": 1620,
+            "countmax": 1,
+            "image": "2187.png"
+        }
+    ]
+}

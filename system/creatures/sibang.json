@@ -1,0 +1,62 @@
+{
+    "name": "Sibang",
+    "lookType": 118,
+    "experience": 105,
+    "image": "118.png",
+    "loot": [
+        {
+            "itemid": 2676,
+            "chance": 30000,
+            "countmax": 2,
+            "image": "2676.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2676,
+            "chance": 5000,
+            "countmax": 10,
+            "image": "2676.png"
+        },
+        {
+            "itemid": 2675,
+            "chance": 20000,
+            "countmax": 5,
+            "image": "2675.png"
+        },
+        {
+            "itemid": 2678,
+            "chance": 20000,
+            "countmax": 5,
+            "image": "2678.png"
+        },
+        {
+            "itemid": 2682,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2682.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 25,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 1294,
+            "chance": 0,
+            "countmax": 3,
+            "image": "1294.png"
+        },
+        {
+            "itemid": 2458,
+            "chance": 4000,
+            "countmax": 1,
+            "image": "2458.png"
+        }
+    ]
+}

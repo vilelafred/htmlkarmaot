@@ -1,0 +1,68 @@
+{
+    "name": "Elite Elder Beholder",
+    "lookType": 108,
+    "experience": 280,
+    "image": "108.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 24,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 32,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 35,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 3972,
+            "chance": 900,
+            "countmax": 1,
+            "image": "3972.png"
+        },
+        {
+            "itemid": 2377,
+            "chance": 10800,
+            "countmax": 1,
+            "image": "2377.png"
+        },
+        {
+            "itemid": 2394,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2394.png"
+        },
+        {
+            "itemid": 2397,
+            "chance": 21600,
+            "countmax": 1,
+            "image": "2397.png"
+        },
+        {
+            "itemid": 2509,
+            "chance": 10800,
+            "countmax": 1,
+            "image": "2509.png"
+        },
+        {
+            "itemid": 2518,
+            "chance": 3240,
+            "countmax": 1,
+            "image": "2518.png"
+        },
+        {
+            "itemid": 2175,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2175.png"
+        }
+    ]
+}

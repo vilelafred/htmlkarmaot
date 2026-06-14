@@ -1,0 +1,56 @@
+{
+    "name": "Mozradek",
+    "lookType": 240,
+    "experience": 21000,
+    "image": "240.png",
+    "loot": [
+        {
+            "itemid": 2160,
+            "chance": 40000,
+            "countmax": 3,
+            "image": "2160.png"
+        },
+        {
+            "itemid": 6160,
+            "chance": 3500,
+            "countmax": 1,
+            "image": "6160.png"
+        },
+        {
+            "itemid": 6086,
+            "chance": 3500,
+            "countmax": 1,
+            "image": "6086.png"
+        },
+        {
+            "itemid": 5776,
+            "chance": 350,
+            "countmax": 1,
+            "image": "5776.png"
+        },
+        {
+            "itemid": 6751,
+            "chance": 35000,
+            "countmax": 1,
+            "image": "6751.png"
+        },
+        {
+            "itemid": 6140,
+            "chance": 350,
+            "countmax": 1,
+            "image": "6140.png"
+        },
+        {
+            "itemid": 6116,
+            "chance": 35,
+            "countmax": 1,
+            "image": "6116.png"
+        },
+        {
+            "itemid": 6160,
+            "chance": 3500,
+            "countmax": 1,
+            "image": "6160.png"
+        }
+    ]
+}

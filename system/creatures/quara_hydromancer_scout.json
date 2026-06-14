@@ -1,0 +1,14 @@
+{
+    "name": "Quara Hydromancer Scout",
+    "lookType": 47,
+    "experience": 800,
+    "image": "47.png",
+    "loot": [
+        {
+            "itemid": 2667,
+            "chance": 18930,
+            "countmax": 2,
+            "image": "2667.png"
+        }
+    ]
+}

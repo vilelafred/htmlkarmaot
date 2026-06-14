@@ -1,0 +1,62 @@
+{
+    "name": "Blightwalker",
+    "lookType": 255,
+    "experience": 5850,
+    "image": "255.png",
+    "loot": [
+        {
+            "itemid": 2694,
+            "chance": 58125,
+            "countmax": 1,
+            "image": "2694.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 41650,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 41650,
+            "countmax": 99,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2152,
+            "chance": 5650,
+            "countmax": 5,
+            "image": "2152.png"
+        },
+        {
+            "itemid": 2260,
+            "chance": 20325,
+            "countmax": 1,
+            "image": "2260.png"
+        },
+        {
+            "itemid": 2260,
+            "chance": 20325,
+            "countmax": 1,
+            "image": "2260.png"
+        },
+        {
+            "itemid": 2550,
+            "chance": 3300,
+            "countmax": 1,
+            "image": "2550.png"
+        },
+        {
+            "itemid": 2199,
+            "chance": 3100,
+            "countmax": 1,
+            "image": "2199.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

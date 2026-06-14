@@ -1,0 +1,104 @@
+{
+    "name": "Priestess",
+    "lookType": 58,
+    "experience": 420,
+    "image": "58.png",
+    "loot": [
+        {
+            "itemid": 2674,
+            "chance": 7500,
+            "countmax": 2,
+            "image": "2674.png"
+        },
+        {
+            "itemid": 2791,
+            "chance": 3500,
+            "countmax": 1,
+            "image": "2791.png"
+        },
+        {
+            "itemid": 2151,
+            "chance": 700,
+            "countmax": 1,
+            "image": "2151.png"
+        },
+        {
+            "itemid": 2070,
+            "chance": 1400,
+            "countmax": 1,
+            "image": "2070.png"
+        },
+        {
+            "itemid": 2192,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2192.png"
+        },
+        {
+            "itemid": 2032,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2032.png"
+        },
+        {
+            "itemid": 2802,
+            "chance": 14000,
+            "countmax": 1,
+            "image": "2802.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2760,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2760.png"
+        },
+        {
+            "itemid": 2803,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2803.png"
+        },
+        {
+            "itemid": 2125,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2125.png"
+        },
+        {
+            "itemid": 2379,
+            "chance": 23000,
+            "countmax": 1,
+            "image": "2379.png"
+        },
+        {
+            "itemid": 2423,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2423.png"
+        },
+        {
+            "itemid": 2529,
+            "chance": 200,
+            "countmax": 1,
+            "image": "2529.png"
+        },
+        {
+            "itemid": 1977,
+            "chance": 7000,
+            "countmax": 1,
+            "image": "1977.png"
+        }
+    ]
+}

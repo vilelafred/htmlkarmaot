@@ -1,0 +1,44 @@
+{
+    "name": "a topo",
+    "lookType": 15,
+    "experience": 7000,
+    "image": "15.png",
+    "loot": [
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2643,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2643.png"
+        },
+        {
+            "itemid": 2461,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2461.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 15000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2448,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2448.png"
+        }
+    ]
+}

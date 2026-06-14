@@ -1,0 +1,50 @@
+{
+    "name": "The Plasmother",
+    "lookType": 251,
+    "experience": 8900,
+    "image": "251.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 0,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 0,
+            "countmax": 49,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2152,
+            "chance": 0,
+            "countmax": 11,
+            "image": "2152.png"
+        },
+        {
+            "itemid": 2144,
+            "chance": 0,
+            "countmax": 3,
+            "image": "2144.png"
+        },
+        {
+            "itemid": 2146,
+            "chance": 0,
+            "countmax": 3,
+            "image": "2146.png"
+        },
+        {
+            "itemid": 2149,
+            "chance": 0,
+            "countmax": 3,
+            "image": "2149.png"
+        },
+        {
+            "itemid": 2145,
+            "chance": 0,
+            "countmax": 3,
+            "image": "2145.png"
+        }
+    ]
+}

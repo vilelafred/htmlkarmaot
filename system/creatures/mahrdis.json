@@ -1,0 +1,86 @@
+{
+    "name": "Mahrdis",
+    "lookType": 90,
+    "experience": 3050,
+    "image": "90.png",
+    "loot": [
+        {
+            "itemid": 2353,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "2353.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 70000,
+            "countmax": 80,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 50000,
+            "countmax": 85,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 35000,
+            "countmax": 95,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2147,
+            "chance": 0,
+            "countmax": 3,
+            "image": "2147.png"
+        },
+        {
+            "itemid": 2156,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2156.png"
+        },
+        {
+            "itemid": 2141,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2141.png"
+        },
+        {
+            "itemid": 5937,
+            "chance": 90,
+            "countmax": 2,
+            "image": "5937.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2432,
+            "chance": 200,
+            "countmax": 1,
+            "image": "2432.png"
+        },
+        {
+            "itemid": 2539,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2539.png"
+        },
+        {
+            "itemid": 2168,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2168.png"
+        }
+    ]
+}

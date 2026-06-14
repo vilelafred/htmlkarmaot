@@ -1,0 +1,14 @@
+{
+    "name": "Spider",
+    "lookType": 30,
+    "experience": 12,
+    "image": "30.png",
+    "loot": [
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

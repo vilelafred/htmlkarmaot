@@ -1,0 +1,14 @@
+{
+    "name": "Tortoise",
+    "lookType": 360,
+    "experience": 90,
+    "image": "360.png",
+    "loot": [
+        {
+            "itemid": 2667,
+            "chance": 4600,
+            "countmax": 1,
+            "image": "2667.png"
+        }
+    ]
+}

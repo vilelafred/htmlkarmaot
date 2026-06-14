@@ -1,0 +1,26 @@
+{
+    "name": "Swamp Troll",
+    "lookType": 76,
+    "experience": 25,
+    "image": "76.png",
+    "loot": [
+        {
+            "itemid": 2050,
+            "chance": 15000,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2667,
+            "chance": 60000,
+            "countmax": 1,
+            "image": "2667.png"
+        },
+        {
+            "itemid": 5901,
+            "chance": 2140,
+            "countmax": 1,
+            "image": "5901.png"
+        }
+    ]
+}

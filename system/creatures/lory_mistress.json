@@ -1,0 +1,122 @@
+{
+    "name": "Lory Mistress",
+    "lookType": 774,
+    "experience": 3800,
+    "image": "774.png",
+    "loot": [
+        {
+            "itemid": 2152,
+            "chance": 100000,
+            "countmax": 50,
+            "image": "2152.png"
+        },
+        {
+            "itemid": 2160,
+            "chance": 70000,
+            "countmax": 5,
+            "image": "2160.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 50000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2143,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2143.png"
+        },
+        {
+            "itemid": 2177,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2177.png"
+        },
+        {
+            "itemid": 2124,
+            "chance": 400,
+            "countmax": 1,
+            "image": "2124.png"
+        },
+        {
+            "itemid": 2121,
+            "chance": 800,
+            "countmax": 1,
+            "image": "2121.png"
+        },
+        {
+            "itemid": 2071,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2071.png"
+        },
+        {
+            "itemid": 2560,
+            "chance": 8000,
+            "countmax": 1,
+            "image": "2560.png"
+        },
+        {
+            "itemid": 2134,
+            "chance": 7000,
+            "countmax": 1,
+            "image": "2134.png"
+        },
+        {
+            "itemid": 2656,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2656.png"
+        },
+        {
+            "itemid": 2655,
+            "chance": 4000,
+            "countmax": 1,
+            "image": "2655.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 12000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2047,
+            "chance": 70000,
+            "countmax": 1,
+            "image": "2047.png"
+        },
+        {
+            "itemid": 2411,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "2411.png"
+        },
+        {
+            "itemid": 2197,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2197.png"
+        },
+        {
+            "itemid": 2170,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2170.png"
+        },
+        {
+            "itemid": 2175,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2175.png"
+        }
+    ]
+}

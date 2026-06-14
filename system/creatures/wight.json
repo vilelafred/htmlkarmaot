@@ -1,0 +1,80 @@
+{
+    "name": "wight",
+    "lookType": 200,
+    "experience": 900,
+    "image": "200.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 35000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2143,
+            "chance": 1000,
+            "countmax": 4,
+            "image": "2143.png"
+        },
+        {
+            "itemid": 2541,
+            "chance": 4000,
+            "countmax": 1,
+            "image": "2541.png"
+        },
+        {
+            "itemid": 5210,
+            "chance": 300,
+            "countmax": 1,
+            "image": "5210.png"
+        },
+        {
+            "itemid": 2195,
+            "chance": 200,
+            "countmax": 1,
+            "image": "2195.png"
+        },
+        {
+            "itemid": 2658,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2658.png"
+        },
+        {
+            "itemid": 2528,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2528.png"
+        },
+        {
+            "itemid": 2436,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "2436.png"
+        },
+        {
+            "itemid": 2462,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2462.png"
+        },
+        {
+            "itemid": 2656,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2656.png"
+        },
+        {
+            "itemid": 2655,
+            "chance": 200,
+            "countmax": 1,
+            "image": "2655.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

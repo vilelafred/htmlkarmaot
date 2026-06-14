@@ -1,0 +1,26 @@
+{
+    "name": "gnarlhound",
+    "lookType": 179,
+    "experience": 140,
+    "image": "179.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 48000,
+            "countmax": 30,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 39075,
+            "countmax": 3,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2671,
+            "chance": 33300,
+            "countmax": 6,
+            "image": "2671.png"
+        }
+    ]
+}

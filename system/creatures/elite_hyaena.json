@@ -1,0 +1,20 @@
+{
+    "name": "Elite Hyaena",
+    "lookType": 94,
+    "experience": 20,
+    "image": "94.png",
+    "loot": [
+        {
+            "itemid": 3976,
+            "chance": 80000,
+            "countmax": 3,
+            "image": "3976.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 80000,
+            "countmax": 2,
+            "image": "2666.png"
+        }
+    ]
+}

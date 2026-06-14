@@ -1,0 +1,56 @@
+{
+    "name": "Elite Skeleton",
+    "lookType": 33,
+    "experience": 35,
+    "image": "33.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 54000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2230,
+            "chance": 60000,
+            "countmax": 1,
+            "image": "2230.png"
+        },
+        {
+            "itemid": 2473,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2473.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 60000,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2398,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2398.png"
+        },
+        {
+            "itemid": 2388,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2388.png"
+        },
+        {
+            "itemid": 2376,
+            "chance": 2400,
+            "countmax": 1,
+            "image": "2376.png"
+        },
+        {
+            "itemid": 2511,
+            "chance": 2400,
+            "countmax": 1,
+            "image": "2511.png"
+        }
+    ]
+}

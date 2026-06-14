@@ -1,0 +1,98 @@
+{
+    "name": "Princess Archer",
+    "lookType": 255,
+    "experience": 1960,
+    "image": "255.png",
+    "loot": [
+        {
+            "itemid": 2680,
+            "chance": 18000,
+            "countmax": 2,
+            "image": "2680.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2543,
+            "chance": 27000,
+            "countmax": 3,
+            "image": "2543.png"
+        },
+        {
+            "itemid": 2657,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2657.png"
+        },
+        {
+            "itemid": 2457,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2457.png"
+        },
+        {
+            "itemid": 2659,
+            "chance": 200,
+            "countmax": 1,
+            "image": "2659.png"
+        },
+        {
+            "itemid": 5811,
+            "chance": 500,
+            "countmax": 1,
+            "image": "5811.png"
+        },
+        {
+            "itemid": 5789,
+            "chance": 100,
+            "countmax": 1,
+            "image": "5789.png"
+        },
+        {
+            "itemid": 5800,
+            "chance": 300,
+            "countmax": 1,
+            "image": "5800.png"
+        },
+        {
+            "itemid": 5787,
+            "chance": 200,
+            "countmax": 1,
+            "image": "5787.png"
+        },
+        {
+            "itemid": 5899,
+            "chance": 200,
+            "countmax": 1,
+            "image": "5899.png"
+        },
+        {
+            "itemid": 5801,
+            "chance": 300,
+            "countmax": 1,
+            "image": "5801.png"
+        },
+        {
+            "itemid": 5896,
+            "chance": 300,
+            "countmax": 1,
+            "image": "5896.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

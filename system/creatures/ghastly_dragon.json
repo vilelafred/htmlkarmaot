@@ -1,0 +1,26 @@
+{
+    "name": "Ghastly Dragon",
+    "lookType": 351,
+    "experience": 4600,
+    "image": "351.png",
+    "loot": [
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 9810,
+            "chance": 180,
+            "countmax": 1,
+            "image": "9810.png"
+        }
+    ]
+}

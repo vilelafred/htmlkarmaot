@@ -1,0 +1,86 @@
+{
+    "name": "Cyclops",
+    "lookType": 22,
+    "experience": 150,
+    "image": "22.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 20000,
+            "countmax": 2,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 50000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 70000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 40000,
+            "countmax": 15,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2490,
+            "chance": 700,
+            "countmax": 1,
+            "image": "2490.png"
+        },
+        {
+            "itemid": 2129,
+            "chance": 200,
+            "countmax": 1,
+            "image": "2129.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2406,
+            "chance": 8000,
+            "countmax": 1,
+            "image": "2406.png"
+        },
+        {
+            "itemid": 2381,
+            "chance": 700,
+            "countmax": 1,
+            "image": "2381.png"
+        },
+        {
+            "itemid": 2510,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "2510.png"
+        },
+        {
+            "itemid": 2513,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2513.png"
+        },
+        {
+            "itemid": 2209,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2209.png"
+        }
+    ]
+}

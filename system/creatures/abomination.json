@@ -1,0 +1,62 @@
+{
+    "name": "abomination",
+    "lookType": 174,
+    "experience": 1875,
+    "image": "174.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 75000,
+            "countmax": 55,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 55000,
+            "countmax": 75,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2549,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2549.png"
+        },
+        {
+            "itemid": 2475,
+            "chance": 3500,
+            "countmax": 1,
+            "image": "2475.png"
+        },
+        {
+            "itemid": 2197,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2197.png"
+        },
+        {
+            "itemid": 2391,
+            "chance": 5500,
+            "countmax": 1,
+            "image": "2391.png"
+        },
+        {
+            "itemid": 2547,
+            "chance": 10000,
+            "countmax": 3,
+            "image": "2547.png"
+        },
+        {
+            "itemid": 2489,
+            "chance": 30000,
+            "countmax": 1,
+            "image": "2489.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

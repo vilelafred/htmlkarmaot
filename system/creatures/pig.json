@@ -1,0 +1,14 @@
+{
+    "name": "Pig",
+    "lookType": 60,
+    "experience": 0,
+    "image": "60.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 65000,
+            "countmax": 4,
+            "image": "2666.png"
+        }
+    ]
+}

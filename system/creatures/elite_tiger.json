@@ -1,0 +1,20 @@
+{
+    "name": "Elite Tiger",
+    "lookType": 125,
+    "experience": 40,
+    "image": "125.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 26400,
+            "countmax": 2,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 66000,
+            "countmax": 3,
+            "image": "2666.png"
+        }
+    ]
+}

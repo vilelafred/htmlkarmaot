@@ -1,0 +1,50 @@
+{
+    "name": "Elite Yeti",
+    "lookType": 110,
+    "experience": 460,
+    "image": "110.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 42000,
+            "countmax": 6,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 80000,
+            "countmax": 4,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 72000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 36000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2111,
+            "chance": 60000,
+            "countmax": 22,
+            "image": "2111.png"
+        },
+        {
+            "itemid": 2129,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2129.png"
+        },
+        {
+            "itemid": 2644,
+            "chance": 960,
+            "countmax": 1,
+            "image": "2644.png"
+        }
+    ]
+}

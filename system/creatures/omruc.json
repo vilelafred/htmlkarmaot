@@ -1,0 +1,104 @@
+{
+    "name": "Omruc",
+    "lookType": 90,
+    "experience": 2950,
+    "image": "90.png",
+    "loot": [
+        {
+            "itemid": 2352,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "2352.png"
+        },
+        {
+            "itemid": 2674,
+            "chance": 80000,
+            "countmax": 2,
+            "image": "2674.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 70000,
+            "countmax": 80,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 50000,
+            "countmax": 85,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 35000,
+            "countmax": 95,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2145,
+            "chance": 10000,
+            "countmax": 3,
+            "image": "2145.png"
+        },
+        {
+            "itemid": 2154,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2154.png"
+        },
+        {
+            "itemid": 2544,
+            "chance": 20000,
+            "countmax": 25,
+            "image": "2544.png"
+        },
+        {
+            "itemid": 2545,
+            "chance": 60000,
+            "countmax": 20,
+            "image": "2545.png"
+        },
+        {
+            "itemid": 2546,
+            "chance": 40000,
+            "countmax": 15,
+            "image": "2546.png"
+        },
+        {
+            "itemid": 2547,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "2547.png"
+        },
+        {
+            "itemid": 5937,
+            "chance": 90,
+            "countmax": 2,
+            "image": "5937.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2195,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2195.png"
+        },
+        {
+            "itemid": 2165,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2165.png"
+        }
+    ]
+}

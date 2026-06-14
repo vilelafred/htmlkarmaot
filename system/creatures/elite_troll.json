@@ -1,0 +1,80 @@
+{
+    "name": "Elite Troll",
+    "lookType": 15,
+    "experience": 20,
+    "image": "15.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 24000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2120,
+            "chance": 4800,
+            "countmax": 1,
+            "image": "2120.png"
+        },
+        {
+            "itemid": 2461,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2461.png"
+        },
+        {
+            "itemid": 2643,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2643.png"
+        },
+        {
+            "itemid": 2389,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2389.png"
+        },
+        {
+            "itemid": 2380,
+            "chance": 7200,
+            "countmax": 1,
+            "image": "2380.png"
+        },
+        {
+            "itemid": 2448,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2448.png"
+        },
+        {
+            "itemid": 2512,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2512.png"
+        },
+        {
+            "itemid": 2170,
+            "chance": 120,
+            "countmax": 1,
+            "image": "2170.png"
+        },
+        {
+            "itemid": 6823,
+            "chance": 1800,
+            "countmax": 2,
+            "image": "6823.png"
+        },
+        {
+            "itemid": 6824,
+            "chance": 4800,
+            "countmax": 10,
+            "image": "6824.png"
+        }
+    ]
+}

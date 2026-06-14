@@ -1,0 +1,92 @@
+{
+    "name": "Dipthrah",
+    "lookType": 87,
+    "experience": 2900,
+    "image": "87.png",
+    "loot": [
+        {
+            "itemid": 2354,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "2354.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 70000,
+            "countmax": 80,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 50000,
+            "countmax": 85,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 35000,
+            "countmax": 95,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2146,
+            "chance": 10000,
+            "countmax": 3,
+            "image": "2146.png"
+        },
+        {
+            "itemid": 2158,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2158.png"
+        },
+        {
+            "itemid": 2178,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2178.png"
+        },
+        {
+            "itemid": 2193,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2193.png"
+        },
+        {
+            "itemid": 5937,
+            "chance": 90,
+            "countmax": 2,
+            "image": "5937.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2436,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2436.png"
+        },
+        {
+            "itemid": 2446,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2446.png"
+        },
+        {
+            "itemid": 2167,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2167.png"
+        }
+    ]
+}

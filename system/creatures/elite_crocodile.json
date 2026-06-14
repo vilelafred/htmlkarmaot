@@ -1,0 +1,44 @@
+{
+    "name": "Elite Crocodile",
+    "lookType": 119,
+    "experience": 40,
+    "image": "119.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 72000,
+            "countmax": 2,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 80000,
+            "countmax": 4,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 3982,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "3982.png"
+        },
+        {
+            "itemid": 2461,
+            "chance": 14400,
+            "countmax": 1,
+            "image": "2461.png"
+        },
+        {
+            "itemid": 2649,
+            "chance": 14400,
+            "countmax": 1,
+            "image": "2649.png"
+        }
+    ]
+}

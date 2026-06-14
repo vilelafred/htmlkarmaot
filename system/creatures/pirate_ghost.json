@@ -1,0 +1,32 @@
+{
+    "name": "Pirate Ghost",
+    "lookType": 196,
+    "experience": 250,
+    "image": "196.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 18000,
+            "countmax": 69,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2237,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2237.png"
+        },
+        {
+            "itemid": 2236,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2236.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

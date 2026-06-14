@@ -1,0 +1,26 @@
+{
+    "name": "Dragon",
+    "lookType": 34,
+    "experience": 700,
+    "image": "34.png",
+    "loot": [
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 20,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 20,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2672,
+            "chance": 6550,
+            "countmax": 3,
+            "image": "2672.png"
+        }
+    ]
+}

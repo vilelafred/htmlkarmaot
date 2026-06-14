@@ -1,0 +1,20 @@
+{
+    "name": "Bug",
+    "lookType": 45,
+    "experience": 18,
+    "image": "45.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 35000,
+            "countmax": 6,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2679,
+            "chance": 3000,
+            "countmax": 3,
+            "image": "2679.png"
+        }
+    ]
+}

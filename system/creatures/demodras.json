@@ -1,0 +1,104 @@
+{
+    "name": "Demodras",
+    "lookType": 204,
+    "experience": 3100,
+    "image": "204.png",
+    "loot": [
+        {
+            "itemid": 2672,
+            "chance": 75000,
+            "countmax": 10,
+            "image": "2672.png"
+        },
+        {
+            "itemid": 2796,
+            "chance": 24000,
+            "countmax": 7,
+            "image": "2796.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 95000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 55000,
+            "countmax": 50,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2146,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2146.png"
+        },
+        {
+            "itemid": 2547,
+            "chance": 16000,
+            "countmax": 1,
+            "image": "2547.png"
+        },
+        {
+            "itemid": 2033,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2033.png"
+        },
+        {
+            "itemid": 1976,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "1976.png"
+        },
+        {
+            "itemid": 2177,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2177.png"
+        },
+        {
+            "itemid": 2498,
+            "chance": 400,
+            "countmax": 1,
+            "image": "2498.png"
+        },
+        {
+            "itemid": 2479,
+            "chance": 800,
+            "countmax": 1,
+            "image": "2479.png"
+        },
+        {
+            "itemid": 2492,
+            "chance": 300,
+            "countmax": 1,
+            "image": "2492.png"
+        },
+        {
+            "itemid": 2392,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2392.png"
+        },
+        {
+            "itemid": 2528,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2528.png"
+        },
+        {
+            "itemid": 2167,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2167.png"
+        }
+    ]
+}

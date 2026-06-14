@@ -1,0 +1,56 @@
+{
+    "name": "Elite Lizard Sentinel",
+    "lookType": 114,
+    "experience": 105,
+    "image": "114.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 15,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2145,
+            "chance": 960,
+            "countmax": 1,
+            "image": "2145.png"
+        },
+        {
+            "itemid": 2464,
+            "chance": 10800,
+            "countmax": 1,
+            "image": "2464.png"
+        },
+        {
+            "itemid": 2483,
+            "chance": 9600,
+            "countmax": 1,
+            "image": "2483.png"
+        },
+        {
+            "itemid": 2389,
+            "chance": 12000,
+            "countmax": 3,
+            "image": "2389.png"
+        },
+        {
+            "itemid": 2425,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "2425.png"
+        },
+        {
+            "itemid": 2381,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2381.png"
+        },
+        {
+            "itemid": 3974,
+            "chance": 360,
+            "countmax": 1,
+            "image": "3974.png"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Wyrm",
+    "lookType": 291,
+    "experience": 1550,
+    "image": "291.png",
+    "loot": [
+        {
+            "itemid": 2672,
+            "chance": 34800,
+            "countmax": 3,
+            "image": "2672.png"
+        },
+        {
+            "itemid": 7606,
+            "chance": 1250,
+            "countmax": 1,
+            "image": "7606.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

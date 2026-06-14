@@ -1,0 +1,80 @@
+{
+    "name": "Elite Mummy",
+    "lookType": 65,
+    "experience": 150,
+    "image": "65.png",
+    "loot": [
+        {
+            "itemid": 3976,
+            "chance": 80000,
+            "countmax": 3,
+            "image": "3976.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 24000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 48000,
+            "countmax": 50,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2144,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2144.png"
+        },
+        {
+            "itemid": 2134,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2134.png"
+        },
+        {
+            "itemid": 2124,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2124.png"
+        },
+        {
+            "itemid": 2162,
+            "chance": 19200,
+            "countmax": 1,
+            "image": "2162.png"
+        },
+        {
+            "itemid": 2411,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2411.png"
+        },
+        {
+            "itemid": 2406,
+            "chance": 9600,
+            "countmax": 1,
+            "image": "2406.png"
+        },
+        {
+            "itemid": 2529,
+            "chance": 960,
+            "countmax": 1,
+            "image": "2529.png"
+        },
+        {
+            "itemid": 2170,
+            "chance": 120,
+            "countmax": 1,
+            "image": "2170.png"
+        },
+        {
+            "itemid": 2161,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2161.png"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "name": "Fernfang",
+    "lookType": 57,
+    "experience": 600,
+    "image": "57.png",
+    "loot": [
+        {
+            "itemid": 2689,
+            "chance": 14000,
+            "countmax": 1,
+            "image": "2689.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 15000,
+            "countmax": 18,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2154,
+            "chance": 400,
+            "countmax": 1,
+            "image": "2154.png"
+        },
+        {
+            "itemid": 2260,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2260.png"
+        },
+        {
+            "itemid": 2177,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "2177.png"
+        },
+        {
+            "itemid": 2015,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2015.png"
+        },
+        {
+            "itemid": 2032,
+            "chance": 6500,
+            "countmax": 1,
+            "image": "2032.png"
+        },
+        {
+            "itemid": 2802,
+            "chance": 7000,
+            "countmax": 1,
+            "image": "2802.png"
+        },
+        {
+            "itemid": 2800,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2800.png"
+        },
+        {
+            "itemid": 2747,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2747.png"
+        },
+        {
+            "itemid": 2220,
+            "chance": 7700,
+            "countmax": 1,
+            "image": "2220.png"
+        },
+        {
+            "itemid": 2129,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2129.png"
+        },
+        {
+            "itemid": 2652,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2652.png"
+        },
+        {
+            "itemid": 5937,
+            "chance": 90,
+            "countmax": 2,
+            "image": "5937.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2642,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2642.png"
+        },
+        {
+            "itemid": 2044,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2044.png"
+        },
+        {
+            "itemid": 2401,
+            "chance": 11000,
+            "countmax": 1,
+            "image": "2401.png"
+        },
+        {
+            "itemid": 2401,
+            "chance": 11000,
+            "countmax": 1,
+            "image": "2401.png"
+        },
+        {
+            "itemid": 2166,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2166.png"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Sheep",
+    "lookType": 14,
+    "experience": 0,
+    "image": "14.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 70000,
+            "countmax": 4,
+            "image": "2666.png"
+        }
+    ]
+}

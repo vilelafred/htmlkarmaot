@@ -1,0 +1,68 @@
+{
+    "name": "Elite Scarab",
+    "lookType": 83,
+    "experience": 120,
+    "image": "83.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 64800,
+            "countmax": 2,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 40,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 53400,
+            "countmax": 40,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2159,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2159.png"
+        },
+        {
+            "itemid": 2159,
+            "chance": 120,
+            "countmax": 1,
+            "image": "2159.png"
+        },
+        {
+            "itemid": 2150,
+            "chance": 1080,
+            "countmax": 1,
+            "image": "2150.png"
+        },
+        {
+            "itemid": 2149,
+            "chance": 1080,
+            "countmax": 1,
+            "image": "2149.png"
+        },
+        {
+            "itemid": 2544,
+            "chance": 6000,
+            "countmax": 3,
+            "image": "2544.png"
+        },
+        {
+            "itemid": 2439,
+            "chance": 360,
+            "countmax": 1,
+            "image": "2439.png"
+        },
+        {
+            "itemid": 2442,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2442.png"
+        }
+    ]
+}

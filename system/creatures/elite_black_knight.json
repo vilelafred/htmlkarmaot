@@ -1,0 +1,128 @@
+{
+    "name": "Elite Black Knight",
+    "lookType": 131,
+    "experience": 1600,
+    "image": "131.png",
+    "loot": [
+        {
+            "itemid": 2691,
+            "chance": 36000,
+            "countmax": 2,
+            "image": "2691.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 59940,
+            "countmax": 60,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 39960,
+            "countmax": 90,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2120,
+            "chance": 27000,
+            "countmax": 1,
+            "image": "2120.png"
+        },
+        {
+            "itemid": 2133,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "2133.png"
+        },
+        {
+            "itemid": 2478,
+            "chance": 23400,
+            "countmax": 1,
+            "image": "2478.png"
+        },
+        {
+            "itemid": 2457,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2457.png"
+        },
+        {
+            "itemid": 2490,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2490.png"
+        },
+        {
+            "itemid": 2463,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2463.png"
+        },
+        {
+            "itemid": 2489,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2489.png"
+        },
+        {
+            "itemid": 2475,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2475.png"
+        },
+        {
+            "itemid": 2476,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "2476.png"
+        },
+        {
+            "itemid": 2477,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "2477.png"
+        },
+        {
+            "itemid": 2195,
+            "chance": 900,
+            "countmax": 1,
+            "image": "2195.png"
+        },
+        {
+            "itemid": 2389,
+            "chance": 54000,
+            "countmax": 3,
+            "image": "2389.png"
+        },
+        {
+            "itemid": 2381,
+            "chance": 23400,
+            "countmax": 1,
+            "image": "2381.png"
+        },
+        {
+            "itemid": 2417,
+            "chance": 12600,
+            "countmax": 1,
+            "image": "2417.png"
+        },
+        {
+            "itemid": 2414,
+            "chance": 1080,
+            "countmax": 1,
+            "image": "2414.png"
+        },
+        {
+            "itemid": 2430,
+            "chance": 4500,
+            "countmax": 1,
+            "image": "2430.png"
+        },
+        {
+            "itemid": 2377,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2377.png"
+        }
+    ]
+}

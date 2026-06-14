@@ -1,0 +1,56 @@
+{
+    "name": "Defiler",
+    "lookType": 257,
+    "experience": 3700,
+    "image": "257.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 49175,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 49175,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 49175,
+            "countmax": 80,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2152,
+            "chance": 5100,
+            "countmax": 4,
+            "image": "2152.png"
+        },
+        {
+            "itemid": 2151,
+            "chance": 2350,
+            "countmax": 1,
+            "image": "2151.png"
+        },
+        {
+            "itemid": 2149,
+            "chance": 2250,
+            "countmax": 3,
+            "image": "2149.png"
+        },
+        {
+            "itemid": 2155,
+            "chance": 550,
+            "countmax": 1,
+            "image": "2155.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

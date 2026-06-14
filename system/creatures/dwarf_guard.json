@@ -1,0 +1,80 @@
+{
+    "name": "Dwarf Guard",
+    "lookType": 70,
+    "experience": 165,
+    "image": "70.png",
+    "loot": [
+        {
+            "itemid": 2787,
+            "chance": 55000,
+            "countmax": 2,
+            "image": "2787.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 3000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2150,
+            "chance": 800,
+            "countmax": 1,
+            "image": "2150.png"
+        },
+        {
+            "itemid": 2643,
+            "chance": 40000,
+            "countmax": 1,
+            "image": "2643.png"
+        },
+        {
+            "itemid": 2483,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2483.png"
+        },
+        {
+            "itemid": 2457,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2457.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 20,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2417,
+            "chance": 1300,
+            "countmax": 1,
+            "image": "2417.png"
+        },
+        {
+            "itemid": 2387,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2387.png"
+        },
+        {
+            "itemid": 2513,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2513.png"
+        },
+        {
+            "itemid": 2208,
+            "chance": 1000,
+            "countmax": 1,
+            "image": "2208.png"
+        }
+    ]
+}

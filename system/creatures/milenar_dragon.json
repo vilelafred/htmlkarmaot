@@ -1,0 +1,128 @@
+{
+    "name": "milenar dragon",
+    "lookType": 261,
+    "experience": 11150,
+    "image": "261.png",
+    "loot": [
+        {
+            "itemid": 2672,
+            "chance": 6000,
+            "countmax": 3,
+            "image": "2672.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 8000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 4000,
+            "countmax": 90,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 6000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 6000,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2145,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2145.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 5000,
+            "countmax": 100,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 5000,
+            "countmax": 100,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 5000,
+            "countmax": 100,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2132,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2132.png"
+        },
+        {
+            "itemid": 2457,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2457.png"
+        },
+        {
+            "itemid": 2647,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "2647.png"
+        },
+        {
+            "itemid": 2458,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2458.png"
+        },
+        {
+            "itemid": 2229,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2229.png"
+        },
+        {
+            "itemid": 6154,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "6154.png"
+        },
+        {
+            "itemid": 6179,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "6179.png"
+        },
+        {
+            "itemid": 5798,
+            "chance": 2000,
+            "countmax": 1,
+            "image": "5798.png"
+        },
+        {
+            "itemid": 5959,
+            "chance": 400,
+            "countmax": 1,
+            "image": "5959.png"
+        },
+        {
+            "itemid": 6117,
+            "chance": 100,
+            "countmax": 1,
+            "image": "6117.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

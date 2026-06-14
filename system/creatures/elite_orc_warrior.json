@@ -1,0 +1,56 @@
+{
+    "name": "Elite Orc Warrior",
+    "lookType": 7,
+    "experience": 50,
+    "image": "7.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 78000,
+            "countmax": 15,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2007,
+            "chance": 8400,
+            "countmax": 1,
+            "image": "2007.png"
+        },
+        {
+            "itemid": 2464,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2464.png"
+        },
+        {
+            "itemid": 2385,
+            "chance": 60000,
+            "countmax": 1,
+            "image": "2385.png"
+        },
+        {
+            "itemid": 2411,
+            "chance": 120,
+            "countmax": 1,
+            "image": "2411.png"
+        },
+        {
+            "itemid": 2512,
+            "chance": 9600,
+            "countmax": 1,
+            "image": "2512.png"
+        },
+        {
+            "itemid": 2530,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2530.png"
+        }
+    ]
+}

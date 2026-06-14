@@ -1,0 +1,32 @@
+{
+    "name": "Mutated Human",
+    "lookType": 323,
+    "experience": 150,
+    "image": "323.png",
+    "loot": [
+        {
+            "itemid": 2376,
+            "chance": 5030,
+            "countmax": 1,
+            "image": "2376.png"
+        },
+        {
+            "itemid": 2696,
+            "chance": 8000,
+            "countmax": 1,
+            "image": "2696.png"
+        },
+        {
+            "itemid": 7910,
+            "chance": 580,
+            "countmax": 1,
+            "image": "7910.png"
+        },
+        {
+            "itemid": 9808,
+            "chance": 190,
+            "countmax": 1,
+            "image": "9808.png"
+        }
+    ]
+}

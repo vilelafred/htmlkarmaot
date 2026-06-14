@@ -1,0 +1,92 @@
+{
+    "name": "Elite Priestess",
+    "lookType": 58,
+    "experience": 420,
+    "image": "58.png",
+    "loot": [
+        {
+            "itemid": 2674,
+            "chance": 9000,
+            "countmax": 2,
+            "image": "2674.png"
+        },
+        {
+            "itemid": 2791,
+            "chance": 4200,
+            "countmax": 1,
+            "image": "2791.png"
+        },
+        {
+            "itemid": 2151,
+            "chance": 840,
+            "countmax": 1,
+            "image": "2151.png"
+        },
+        {
+            "itemid": 2070,
+            "chance": 1680,
+            "countmax": 1,
+            "image": "2070.png"
+        },
+        {
+            "itemid": 2192,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "2192.png"
+        },
+        {
+            "itemid": 2032,
+            "chance": 24000,
+            "countmax": 1,
+            "image": "2032.png"
+        },
+        {
+            "itemid": 2802,
+            "chance": 16800,
+            "countmax": 1,
+            "image": "2802.png"
+        },
+        {
+            "itemid": 2760,
+            "chance": 14400,
+            "countmax": 1,
+            "image": "2760.png"
+        },
+        {
+            "itemid": 2803,
+            "chance": 7200,
+            "countmax": 1,
+            "image": "2803.png"
+        },
+        {
+            "itemid": 2125,
+            "chance": 720,
+            "countmax": 1,
+            "image": "2125.png"
+        },
+        {
+            "itemid": 2379,
+            "chance": 27600,
+            "countmax": 1,
+            "image": "2379.png"
+        },
+        {
+            "itemid": 2423,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2423.png"
+        },
+        {
+            "itemid": 2529,
+            "chance": 240,
+            "countmax": 1,
+            "image": "2529.png"
+        },
+        {
+            "itemid": 1977,
+            "chance": 8400,
+            "countmax": 1,
+            "image": "1977.png"
+        }
+    ]
+}

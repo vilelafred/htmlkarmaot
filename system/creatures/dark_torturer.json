@@ -1,0 +1,38 @@
+{
+    "name": "Dark Torturer",
+    "lookType": 256,
+    "experience": 4650,
+    "image": "256.png",
+    "loot": [
+        {
+            "itemid": 5022,
+            "chance": 600,
+            "countmax": 2,
+            "image": "5022.png"
+        },
+        {
+            "itemid": 2558,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2558.png"
+        },
+        {
+            "itemid": 2152,
+            "chance": 4950,
+            "countmax": 6,
+            "image": "2152.png"
+        },
+        {
+            "itemid": 2645,
+            "chance": 625,
+            "countmax": 1,
+            "image": "2645.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

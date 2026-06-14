@@ -1,0 +1,62 @@
+{
+    "name": "Elf Scout",
+    "lookType": 64,
+    "experience": 75,
+    "image": "64.png",
+    "loot": [
+        {
+            "itemid": 2681,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2681.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 30000,
+            "countmax": 5,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2544,
+            "chance": 30000,
+            "countmax": 12,
+            "image": "2544.png"
+        },
+        {
+            "itemid": 2545,
+            "chance": 15000,
+            "countmax": 3,
+            "image": "2545.png"
+        },
+        {
+            "itemid": 2031,
+            "chance": 14000,
+            "countmax": 1,
+            "image": "2031.png"
+        },
+        {
+            "itemid": 2642,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2642.png"
+        },
+        {
+            "itemid": 2482,
+            "chance": 8000,
+            "countmax": 1,
+            "image": "2482.png"
+        },
+        {
+            "itemid": 2484,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2484.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

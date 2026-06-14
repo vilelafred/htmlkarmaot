@@ -1,0 +1,62 @@
+{
+    "name": "Hellfire Fighter",
+    "lookType": 261,
+    "experience": 3900,
+    "image": "261.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 42525,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 42525,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 42525,
+            "countmax": 31,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2239,
+            "chance": 47850,
+            "countmax": 1,
+            "image": "2239.png"
+        },
+        {
+            "itemid": 2260,
+            "chance": 21925,
+            "countmax": 1,
+            "image": "2260.png"
+        },
+        {
+            "itemid": 2260,
+            "chance": 21925,
+            "countmax": 1,
+            "image": "2260.png"
+        },
+        {
+            "itemid": 2432,
+            "chance": 850,
+            "countmax": 1,
+            "image": "2432.png"
+        },
+        {
+            "itemid": 2392,
+            "chance": 1550,
+            "countmax": 1,
+            "image": "2392.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

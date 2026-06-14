@@ -1,0 +1,50 @@
+{
+    "name": "Elite Orc Spearman",
+    "lookType": 50,
+    "experience": 38,
+    "image": "50.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 26400,
+            "countmax": 7,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2220,
+            "chance": 9240,
+            "countmax": 1,
+            "image": "2220.png"
+        },
+        {
+            "itemid": 2482,
+            "chance": 10800,
+            "countmax": 1,
+            "image": "2482.png"
+        },
+        {
+            "itemid": 2468,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2468.png"
+        },
+        {
+            "itemid": 2389,
+            "chance": 27600,
+            "countmax": 1,
+            "image": "2389.png"
+        },
+        {
+            "itemid": 2420,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2420.png"
+        }
+    ]
+}

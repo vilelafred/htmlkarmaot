@@ -1,0 +1,332 @@
+{
+    "name": "Bazir",
+    "lookType": 449,
+    "experience": 30000,
+    "image": "449.png",
+    "loot": [
+        {
+            "itemid": 2142,
+            "chance": 3500,
+            "countmax": 1,
+            "image": "2142.png"
+        },
+        {
+            "itemid": 2231,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2231.png"
+        },
+        {
+            "itemid": 2144,
+            "chance": 15000,
+            "countmax": 15,
+            "image": "2144.png"
+        },
+        {
+            "itemid": 2158,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2158.png"
+        },
+        {
+            "itemid": 2195,
+            "chance": 4000,
+            "countmax": 1,
+            "image": "2195.png"
+        },
+        {
+            "itemid": 2192,
+            "chance": 2500,
+            "countmax": 1,
+            "image": "2192.png"
+        },
+        {
+            "itemid": 2125,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2125.png"
+        },
+        {
+            "itemid": 2124,
+            "chance": 5500,
+            "countmax": 1,
+            "image": "2124.png"
+        },
+        {
+            "itemid": 2520,
+            "chance": 15500,
+            "countmax": 1,
+            "image": "2520.png"
+        },
+        {
+            "itemid": 2462,
+            "chance": 11000,
+            "countmax": 1,
+            "image": "2462.png"
+        },
+        {
+            "itemid": 2387,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2387.png"
+        },
+        {
+            "itemid": 2434,
+            "chance": 4500,
+            "countmax": 1,
+            "image": "2434.png"
+        },
+        {
+            "itemid": 2167,
+            "chance": 13500,
+            "countmax": 1,
+            "image": "2167.png"
+        },
+        {
+            "itemid": 2432,
+            "chance": 17000,
+            "countmax": 1,
+            "image": "2432.png"
+        },
+        {
+            "itemid": 2393,
+            "chance": 12500,
+            "countmax": 1,
+            "image": "2393.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 99900,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 88800,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 77700,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 66600,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2179,
+            "chance": 8000,
+            "countmax": 1,
+            "image": "2179.png"
+        },
+        {
+            "itemid": 2470,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2470.png"
+        },
+        {
+            "itemid": 2033,
+            "chance": 7500,
+            "countmax": 1,
+            "image": "2033.png"
+        },
+        {
+            "itemid": 2418,
+            "chance": 4500,
+            "countmax": 1,
+            "image": "2418.png"
+        },
+        {
+            "itemid": 2155,
+            "chance": 1500,
+            "countmax": 1,
+            "image": "2155.png"
+        },
+        {
+            "itemid": 2188,
+            "chance": 2500,
+            "countmax": 1,
+            "image": "2188.png"
+        },
+        {
+            "itemid": 2396,
+            "chance": 7500,
+            "countmax": 1,
+            "image": "2396.png"
+        },
+        {
+            "itemid": 2177,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2177.png"
+        },
+        {
+            "itemid": 2162,
+            "chance": 11500,
+            "countmax": 1,
+            "image": "2162.png"
+        },
+        {
+            "itemid": 2472,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2472.png"
+        },
+        {
+            "itemid": 2514,
+            "chance": 7500,
+            "countmax": 1,
+            "image": "2514.png"
+        },
+        {
+            "itemid": 2164,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2164.png"
+        },
+        {
+            "itemid": 2178,
+            "chance": 4000,
+            "countmax": 1,
+            "image": "2178.png"
+        },
+        {
+            "itemid": 2176,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2176.png"
+        },
+        {
+            "itemid": 2171,
+            "chance": 4500,
+            "countmax": 1,
+            "image": "2171.png"
+        },
+        {
+            "itemid": 2200,
+            "chance": 4500,
+            "countmax": 1,
+            "image": "2200.png"
+        },
+        {
+            "itemid": 1982,
+            "chance": 2600,
+            "countmax": 1,
+            "image": "1982.png"
+        },
+        {
+            "itemid": 2214,
+            "chance": 13000,
+            "countmax": 1,
+            "image": "2214.png"
+        },
+        {
+            "itemid": 2123,
+            "chance": 3500,
+            "countmax": 1,
+            "image": "2123.png"
+        },
+        {
+            "itemid": 2170,
+            "chance": 13000,
+            "countmax": 1,
+            "image": "2170.png"
+        },
+        {
+            "itemid": 2402,
+            "chance": 15500,
+            "countmax": 1,
+            "image": "2402.png"
+        },
+        {
+            "itemid": 2436,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2436.png"
+        },
+        {
+            "itemid": 2150,
+            "chance": 13500,
+            "countmax": 20,
+            "image": "2150.png"
+        },
+        {
+            "itemid": 2145,
+            "chance": 9500,
+            "countmax": 5,
+            "image": "2145.png"
+        },
+        {
+            "itemid": 2149,
+            "chance": 15500,
+            "countmax": 10,
+            "image": "2149.png"
+        },
+        {
+            "itemid": 2146,
+            "chance": 13500,
+            "countmax": 10,
+            "image": "2146.png"
+        },
+        {
+            "itemid": 2165,
+            "chance": 9500,
+            "countmax": 1,
+            "image": "2165.png"
+        },
+        {
+            "itemid": 2197,
+            "chance": 4000,
+            "countmax": 1,
+            "image": "2197.png"
+        },
+        {
+            "itemid": 2174,
+            "chance": 2500,
+            "countmax": 1,
+            "image": "2174.png"
+        },
+        {
+            "itemid": 2151,
+            "chance": 14000,
+            "countmax": 7,
+            "image": "2151.png"
+        },
+        {
+            "itemid": 2112,
+            "chance": 14500,
+            "countmax": 1,
+            "image": "2112.png"
+        },
+        {
+            "itemid": 2421,
+            "chance": 13500,
+            "countmax": 1,
+            "image": "2421.png"
+        },
+        {
+            "itemid": 2377,
+            "chance": 20000,
+            "countmax": 1,
+            "image": "2377.png"
+        },
+        {
+            "itemid": 3955,
+            "chance": 100,
+            "countmax": 1,
+            "image": "3955.png"
+        },
+        {
+            "itemid": 2143,
+            "chance": 12500,
+            "countmax": 15,
+            "image": "2143.png"
+        }
+    ]
+}

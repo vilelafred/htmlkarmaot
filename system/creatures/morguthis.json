@@ -1,0 +1,86 @@
+{
+    "name": "Morguthis",
+    "lookType": 90,
+    "experience": 3000,
+    "image": "90.png",
+    "loot": [
+        {
+            "itemid": 2350,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "2350.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 70000,
+            "countmax": 80,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 50000,
+            "countmax": 85,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 35000,
+            "countmax": 95,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2144,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2144.png"
+        },
+        {
+            "itemid": 2136,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2136.png"
+        },
+        {
+            "itemid": 2645,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2645.png"
+        },
+        {
+            "itemid": 5937,
+            "chance": 90,
+            "countmax": 2,
+            "image": "5937.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2443,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2443.png"
+        },
+        {
+            "itemid": 2430,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2430.png"
+        },
+        {
+            "itemid": 2197,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2197.png"
+        }
+    ]
+}

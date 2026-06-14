@@ -1,0 +1,20 @@
+{
+    "name": "Skunk",
+    "lookType": 106,
+    "experience": 3,
+    "image": "106.png",
+    "loot": [
+        {
+            "itemid": 3976,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "3976.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 1000,
+            "countmax": 2,
+            "image": "2666.png"
+        }
+    ]
+}

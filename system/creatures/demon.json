@@ -1,0 +1,74 @@
+{
+    "name": "Demon",
+    "lookType": 35,
+    "experience": 25,
+    "image": "35.png",
+    "loot": [
+        {
+            "itemid": 2230,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2230.png"
+        },
+        {
+            "itemid": 2449,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2449.png"
+        },
+        {
+            "itemid": 2379,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2379.png"
+        },
+        {
+            "itemid": 2667,
+            "chance": 13000,
+            "countmax": 1,
+            "image": "2667.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 50000,
+            "countmax": 9,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2467,
+            "chance": 7500,
+            "countmax": 1,
+            "image": "2467.png"
+        },
+        {
+            "itemid": 2461,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2461.png"
+        },
+        {
+            "itemid": 2235,
+            "chance": 7000,
+            "countmax": 1,
+            "image": "2235.png"
+        },
+        {
+            "itemid": 2406,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2406.png"
+        },
+        {
+            "itemid": 2559,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2559.png"
+        },
+        {
+            "itemid": 1294,
+            "chance": 30000,
+            "countmax": 3,
+            "image": "1294.png"
+        }
+    ]
+}

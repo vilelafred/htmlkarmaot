@@ -1,0 +1,68 @@
+{
+    "name": "Elite Ghoul",
+    "lookType": 18,
+    "experience": 85,
+    "image": "18.png",
+    "loot": [
+        {
+            "itemid": 3976,
+            "chance": 80000,
+            "countmax": 6,
+            "image": "3976.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 60,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2229,
+            "chance": 5400,
+            "countmax": 1,
+            "image": "2229.png"
+        },
+        {
+            "itemid": 2460,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2460.png"
+        },
+        {
+            "itemid": 2473,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2473.png"
+        },
+        {
+            "itemid": 2483,
+            "chance": 2700,
+            "countmax": 1,
+            "image": "2483.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 27000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 80000,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2403,
+            "chance": 27000,
+            "countmax": 1,
+            "image": "2403.png"
+        },
+        {
+            "itemid": 2168,
+            "chance": 720,
+            "countmax": 1,
+            "image": "2168.png"
+        }
+    ]
+}

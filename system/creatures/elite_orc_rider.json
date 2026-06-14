@@ -1,0 +1,74 @@
+{
+    "name": "Elite Orc Rider",
+    "lookType": 4,
+    "experience": 110,
+    "image": "4.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 36000,
+            "countmax": 3,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 60000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 120,
+            "countmax": 80,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2129,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2129.png"
+        },
+        {
+            "itemid": 1988,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "1988.png"
+        },
+        {
+            "itemid": 2482,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2482.png"
+        },
+        {
+            "itemid": 2483,
+            "chance": 720,
+            "countmax": 1,
+            "image": "2483.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 9600,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2428,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2428.png"
+        },
+        {
+            "itemid": 2425,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2425.png"
+        },
+        {
+            "itemid": 2513,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2513.png"
+        }
+    ]
+}

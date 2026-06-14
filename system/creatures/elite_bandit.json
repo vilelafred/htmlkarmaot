@@ -1,0 +1,74 @@
+{
+    "name": "Elite Bandit",
+    "lookType": 129,
+    "experience": 65,
+    "image": "129.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 72000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 27000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2458,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2458.png"
+        },
+        {
+            "itemid": 2459,
+            "chance": 1620,
+            "countmax": 1,
+            "image": "2459.png"
+        },
+        {
+            "itemid": 2465,
+            "chance": 4500,
+            "countmax": 1,
+            "image": "2465.png"
+        },
+        {
+            "itemid": 2649,
+            "chance": 27000,
+            "countmax": 1,
+            "image": "2649.png"
+        },
+        {
+            "itemid": 2391,
+            "chance": 900,
+            "countmax": 1,
+            "image": "2391.png"
+        },
+        {
+            "itemid": 2386,
+            "chance": 54000,
+            "countmax": 1,
+            "image": "2386.png"
+        },
+        {
+            "itemid": 2398,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2398.png"
+        },
+        {
+            "itemid": 2511,
+            "chance": 30600,
+            "countmax": 1,
+            "image": "2511.png"
+        }
+    ]
+}

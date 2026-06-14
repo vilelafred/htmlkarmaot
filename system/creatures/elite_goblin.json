@@ -1,0 +1,74 @@
+{
+    "name": "Elite Goblin",
+    "lookType": 61,
+    "experience": 25,
+    "image": "61.png",
+    "loot": [
+        {
+            "itemid": 2667,
+            "chance": 23400,
+            "countmax": 1,
+            "image": "2667.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 90,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 1294,
+            "chance": 80000,
+            "countmax": 50,
+            "image": "1294.png"
+        },
+        {
+            "itemid": 2230,
+            "chance": 21600,
+            "countmax": 1,
+            "image": "2230.png"
+        },
+        {
+            "itemid": 2235,
+            "chance": 12600,
+            "countmax": 1,
+            "image": "2235.png"
+        },
+        {
+            "itemid": 2559,
+            "chance": 5400,
+            "countmax": 1,
+            "image": "2559.png"
+        },
+        {
+            "itemid": 2461,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2461.png"
+        },
+        {
+            "itemid": 2467,
+            "chance": 9000,
+            "countmax": 1,
+            "image": "2467.png"
+        },
+        {
+            "itemid": 2379,
+            "chance": 7200,
+            "countmax": 1,
+            "image": "2379.png"
+        },
+        {
+            "itemid": 2406,
+            "chance": 5400,
+            "countmax": 1,
+            "image": "2406.png"
+        },
+        {
+            "itemid": 2449,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2449.png"
+        }
+    ]
+}

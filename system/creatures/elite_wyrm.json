@@ -1,0 +1,26 @@
+{
+    "name": "Elite Wyrm",
+    "lookType": 724,
+    "experience": 1550,
+    "image": "724.png",
+    "loot": [
+        {
+            "itemid": 2672,
+            "chance": 41760,
+            "countmax": 3,
+            "image": "2672.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 12000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 12000,
+            "countmax": 50,
+            "image": "8176.png"
+        }
+    ]
+}

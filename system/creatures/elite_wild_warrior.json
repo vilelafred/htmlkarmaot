@@ -1,0 +1,86 @@
+{
+    "name": "Elite Wild Warrior",
+    "lookType": 131,
+    "experience": 60,
+    "image": "131.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 48000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 48000,
+            "countmax": 30,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 18000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2110,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2110.png"
+        },
+        {
+            "itemid": 2458,
+            "chance": 6000,
+            "countmax": 1,
+            "image": "2458.png"
+        },
+        {
+            "itemid": 2459,
+            "chance": 600,
+            "countmax": 1,
+            "image": "2459.png"
+        },
+        {
+            "itemid": 2465,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2465.png"
+        },
+        {
+            "itemid": 2649,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2649.png"
+        },
+        {
+            "itemid": 2386,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "2386.png"
+        },
+        {
+            "itemid": 2398,
+            "chance": 12000,
+            "countmax": 1,
+            "image": "2398.png"
+        },
+        {
+            "itemid": 2391,
+            "chance": 840,
+            "countmax": 1,
+            "image": "2391.png"
+        },
+        {
+            "itemid": 2511,
+            "chance": 20400,
+            "countmax": 1,
+            "image": "2511.png"
+        },
+        {
+            "itemid": 2509,
+            "chance": 1200,
+            "countmax": 1,
+            "image": "2509.png"
+        }
+    ]
+}

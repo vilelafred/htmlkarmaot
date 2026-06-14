@@ -1,0 +1,68 @@
+{
+    "name": "Phantasm",
+    "lookType": 266,
+    "experience": 4400,
+    "image": "266.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 46950,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 46950,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 46950,
+            "countmax": 33,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2260,
+            "chance": 21250,
+            "countmax": 1,
+            "image": "2260.png"
+        },
+        {
+            "itemid": 2260,
+            "chance": 21250,
+            "countmax": 1,
+            "image": "2260.png"
+        },
+        {
+            "itemid": 2804,
+            "chance": 27100,
+            "countmax": 1,
+            "image": "2804.png"
+        },
+        {
+            "itemid": 2149,
+            "chance": 1675,
+            "countmax": 3,
+            "image": "2149.png"
+        },
+        {
+            "itemid": 2150,
+            "chance": 1275,
+            "countmax": 3,
+            "image": "2150.png"
+        },
+        {
+            "itemid": 2147,
+            "chance": 2075,
+            "countmax": 3,
+            "image": "2147.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

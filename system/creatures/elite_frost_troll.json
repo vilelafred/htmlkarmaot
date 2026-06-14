@@ -1,0 +1,56 @@
+{
+    "name": "Elite Frost Troll",
+    "lookType": 53,
+    "experience": 23,
+    "image": "53.png",
+    "loot": [
+        {
+            "itemid": 2667,
+            "chance": 32400,
+            "countmax": 1,
+            "image": "2667.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 12,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2245,
+            "chance": 14400,
+            "countmax": 1,
+            "image": "2245.png"
+        },
+        {
+            "itemid": 2651,
+            "chance": 21600,
+            "countmax": 1,
+            "image": "2651.png"
+        },
+        {
+            "itemid": 2389,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "2389.png"
+        },
+        {
+            "itemid": 2384,
+            "chance": 27000,
+            "countmax": 1,
+            "image": "2384.png"
+        },
+        {
+            "itemid": 2382,
+            "chance": 16200,
+            "countmax": 1,
+            "image": "2382.png"
+        },
+        {
+            "itemid": 2512,
+            "chance": 27000,
+            "countmax": 1,
+            "image": "2512.png"
+        }
+    ]
+}

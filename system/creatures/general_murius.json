@@ -1,0 +1,68 @@
+{
+    "name": "general murius",
+    "lookType": 202,
+    "experience": 1300,
+    "image": "202.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 50000,
+            "countmax": 20,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2465,
+            "chance": 28000,
+            "countmax": 1,
+            "image": "2465.png"
+        },
+        {
+            "itemid": 2648,
+            "chance": 35000,
+            "countmax": 1,
+            "image": "2648.png"
+        },
+        {
+            "itemid": 5937,
+            "chance": 90,
+            "countmax": 2,
+            "image": "5937.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 50000,
+            "countmax": 50,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2387,
+            "chance": 7500,
+            "countmax": 1,
+            "image": "2387.png"
+        },
+        {
+            "itemid": 2513,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2513.png"
+        },
+        {
+            "itemid": 2580,
+            "chance": 5000,
+            "countmax": 1,
+            "image": "2580.png"
+        }
+    ]
+}

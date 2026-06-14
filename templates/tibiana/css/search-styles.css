@@ -1,0 +1,141 @@
+/* Estilos para o sistema de busca da sidebar */
+.search-wrapper-header {
+  display: none;
+}
+
+.search-box-wrapper {
+    padding: 8px;
+}
+
+.search-title-simple {
+    font-family: 'Martel', serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 8px;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+}
+
+.search-input-sidebar {
+    width: 85%;
+    padding: 6px 8px;
+    font-size: 11px;
+    border-radius: 3px;
+    border: 1px solid #444;
+    background: #1a1a1a;
+    color: #fff;
+    margin-bottom: 4px;
+    font-family: 'Martel', serif;
+    transition: border-color 0.3s ease;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,0.5);
+}
+
+.search-input-sidebar:focus {
+    outline: none;
+    border-color: #8595bb;
+    box-shadow: 0 0 5px rgba(133, 149, 187, 0.3);
+}
+
+.search-input-sidebar::placeholder {
+    color: #888;
+    font-style: italic;
+    font-family: 'Martel', serif;
+}
+
+.search-results-sidebar {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background: #000;
+    border: 1px solid #333;
+    max-height: 150px;
+    overflow-y: auto;
+    color: white;
+    font-size: 11px;
+    display: none;
+    border-radius: 0 0 4px 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.search-results-sidebar li {
+    border-bottom: 1px solid #333;
+}
+
+.search-results-sidebar li:last-child {
+    border-bottom: none;
+}
+
+.search-results-sidebar a {
+    text-decoration: none;
+    display: block;
+    padding: 6px 10px;
+    color: white;
+    transition: background-color 0.2s ease;
+}
+
+.search-results-sidebar a:hover {
+    background-color: #333 !important;
+    color: #8595bb;
+}
+
+.search-no-results {
+    padding: 8px 10px;
+    color: #999;
+    font-style: italic;
+    text-align: center;
+}
+
+/* Estilização para o header da caixa de busca */
+.market-wrapper .box-side-middle {
+    position: relative;
+}
+
+/* Customização da scrollbar para os resultados */
+.search-results-sidebar::-webkit-scrollbar {
+    width: 8px;
+}
+
+.search-results-sidebar::-webkit-scrollbar-track {
+    background: #1a1a1a;
+}
+
+.search-results-sidebar::-webkit-scrollbar-thumb {
+    background: #444;
+    border-radius: 4px;
+}
+
+.search-results-sidebar::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Animação suave para mostrar/esconder resultados */
+.search-results-sidebar.show {
+    display: block;
+    animation: fadeIn 0.2s ease-in;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsividade para dispositivos menores */
+@media (max-width: 768px) {
+    .search-input-sidebar {
+        font-size: 14px;
+        padding: 10px;
+    }
+    
+    .search-results-sidebar {
+        font-size: 12px;
+        max-height: 120px;
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Spectre",
+    "lookType": 268,
+    "experience": 2100,
+    "image": "268.png",
+    "loot": [
+        {
+            "itemid": 2152,
+            "chance": 5075,
+            "countmax": 7,
+            "image": "2152.png"
+        },
+        {
+            "itemid": 2134,
+            "chance": 550,
+            "countmax": 1,
+            "image": "2134.png"
+        },
+        {
+            "itemid": 2260,
+            "chance": 21025,
+            "countmax": 1,
+            "image": "2260.png"
+        },
+        {
+            "itemid": 2260,
+            "chance": 21025,
+            "countmax": 1,
+            "image": "2260.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 37750,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 37750,
+            "countmax": 100,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 37750,
+            "countmax": 97,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2071,
+            "chance": 10350,
+            "countmax": 1,
+            "image": "2071.png"
+        },
+        {
+            "itemid": 2260,
+            "chance": 6350,
+            "countmax": 1,
+            "image": "2260.png"
+        },
+        {
+            "itemid": 2260,
+            "chance": 3350,
+            "countmax": 1,
+            "image": "2260.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 100000,
+            "countmax": 1,
+            "image": "1987.png"
+        }
+    ]
+}

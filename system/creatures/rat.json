@@ -1,0 +1,32 @@
+{
+    "name": "Rat",
+    "lookType": 21,
+    "experience": 5,
+    "image": "21.png",
+    "loot": [
+        {
+            "itemid": 3976,
+            "chance": 50000,
+            "countmax": 3,
+            "image": "3976.png"
+        },
+        {
+            "itemid": 2696,
+            "chance": 40000,
+            "countmax": 1,
+            "image": "2696.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 70000,
+            "countmax": 6,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

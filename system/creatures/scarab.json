@@ -1,0 +1,80 @@
+{
+    "name": "Scarab",
+    "lookType": 83,
+    "experience": 120,
+    "image": "83.png",
+    "loot": [
+        {
+            "itemid": 2666,
+            "chance": 54000,
+            "countmax": 2,
+            "image": "2666.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 70500,
+            "countmax": 40,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 44500,
+            "countmax": 40,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2159,
+            "chance": 10000,
+            "countmax": 1,
+            "image": "2159.png"
+        },
+        {
+            "itemid": 2159,
+            "chance": 100,
+            "countmax": 1,
+            "image": "2159.png"
+        },
+        {
+            "itemid": 2150,
+            "chance": 900,
+            "countmax": 1,
+            "image": "2150.png"
+        },
+        {
+            "itemid": 2149,
+            "chance": 900,
+            "countmax": 1,
+            "image": "2149.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2544,
+            "chance": 5000,
+            "countmax": 3,
+            "image": "2544.png"
+        },
+        {
+            "itemid": 2439,
+            "chance": 300,
+            "countmax": 1,
+            "image": "2439.png"
+        },
+        {
+            "itemid": 2442,
+            "chance": 500,
+            "countmax": 1,
+            "image": "2442.png"
+        }
+    ]
+}

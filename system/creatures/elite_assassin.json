@@ -1,0 +1,86 @@
+{
+    "name": "Elite Assassin",
+    "lookType": 129,
+    "experience": 105,
+    "image": "129.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 27000,
+            "countmax": 10,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 40,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2145,
+            "chance": 1440,
+            "countmax": 1,
+            "image": "2145.png"
+        },
+        {
+            "itemid": 2457,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2457.png"
+        },
+        {
+            "itemid": 3969,
+            "chance": 1620,
+            "countmax": 1,
+            "image": "3969.png"
+        },
+        {
+            "itemid": 3968,
+            "chance": 1980,
+            "countmax": 1,
+            "image": "3968.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 54000,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2050,
+            "chance": 54000,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 2403,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2403.png"
+        },
+        {
+            "itemid": 2404,
+            "chance": 7200,
+            "countmax": 1,
+            "image": "2404.png"
+        },
+        {
+            "itemid": 2510,
+            "chance": 3600,
+            "countmax": 1,
+            "image": "2510.png"
+        },
+        {
+            "itemid": 2513,
+            "chance": 2700,
+            "countmax": 1,
+            "image": "2513.png"
+        },
+        {
+            "itemid": 2509,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2509.png"
+        }
+    ]
+}

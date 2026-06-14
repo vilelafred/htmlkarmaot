@@ -1,0 +1,20 @@
+{
+    "name": "horse",
+    "lookType": 258,
+    "experience": 0,
+    "image": "258.png",
+    "loot": [
+        {
+            "itemid": 2671,
+            "chance": 50000,
+            "countmax": 2,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 2666,
+            "chance": 75000,
+            "countmax": 4,
+            "image": "2666.png"
+        }
+    ]
+}

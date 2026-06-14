@@ -1,0 +1,50 @@
+{
+    "name": "Killer Caiman",
+    "lookType": 119,
+    "experience": 800,
+    "image": "119.png",
+    "loot": [
+        {
+            "itemid": 2148,
+            "chance": 17500,
+            "countmax": 60,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 17500,
+            "countmax": 60,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2671,
+            "chance": 15000,
+            "countmax": 2,
+            "image": "2671.png"
+        },
+        {
+            "itemid": 11190,
+            "chance": 7000,
+            "countmax": 1,
+            "image": "11190.png"
+        },
+        {
+            "itemid": 3982,
+            "chance": 800,
+            "countmax": 1,
+            "image": "3982.png"
+        },
+        {
+            "itemid": 2149,
+            "chance": 400,
+            "countmax": 1,
+            "image": "2149.png"
+        },
+        {
+            "itemid": 11239,
+            "chance": 1000,
+            "countmax": 2,
+            "image": "11239.png"
+        }
+    ]
+}

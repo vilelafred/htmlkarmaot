@@ -1,0 +1,38 @@
+{
+    "name": "Gazer",
+    "lookType": 109,
+    "experience": 90,
+    "image": "109.png",
+    "loot": [
+        {
+            "itemid": 2512,
+            "chance": 3000,
+            "countmax": 1,
+            "image": "2512.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 90000,
+            "countmax": 6,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 10000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 8,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 70000,
+            "countmax": 10,
+            "image": "2148.png"
+        }
+    ]
+}

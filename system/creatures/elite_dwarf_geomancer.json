@@ -1,0 +1,86 @@
+{
+    "name": "Elite Dwarf Geomancer",
+    "lookType": 66,
+    "experience": 245,
+    "image": "66.png",
+    "loot": [
+        {
+            "itemid": 2673,
+            "chance": 32400,
+            "countmax": 2,
+            "image": "2673.png"
+        },
+        {
+            "itemid": 2787,
+            "chance": 80000,
+            "countmax": 2,
+            "image": "2787.png"
+        },
+        {
+            "itemid": 2148,
+            "chance": 80000,
+            "countmax": 30,
+            "image": "2148.png"
+        },
+        {
+            "itemid": 2146,
+            "chance": 180,
+            "countmax": 1,
+            "image": "2146.png"
+        },
+        {
+            "itemid": 2260,
+            "chance": 18000,
+            "countmax": 1,
+            "image": "2260.png"
+        },
+        {
+            "itemid": 1987,
+            "chance": 80000,
+            "countmax": 1,
+            "image": "1987.png"
+        },
+        {
+            "itemid": 2643,
+            "chance": 72000,
+            "countmax": 1,
+            "image": "2643.png"
+        },
+        {
+            "itemid": 2481,
+            "chance": 14400,
+            "countmax": 1,
+            "image": "2481.png"
+        },
+        {
+            "itemid": 2468,
+            "chance": 36000,
+            "countmax": 1,
+            "image": "2468.png"
+        },
+        {
+            "itemid": 2162,
+            "chance": 21600,
+            "countmax": 1,
+            "image": "2162.png"
+        },
+        {
+            "itemid": 2423,
+            "chance": 1800,
+            "countmax": 1,
+            "image": "2423.png"
+        },
+        {
+            "itemid": 2175,
+            "chance": 720,
+            "countmax": 1,
+            "image": "2175.png"
+        },
+        {
+            "itemid": 2213,
+            "chance": 540,
+            "countmax": 1,
+            "image": "2213.png"
+        }
+    ]
+}

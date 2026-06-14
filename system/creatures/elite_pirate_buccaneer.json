@@ -1,0 +1,26 @@
+{
+    "name": "Elite Pirate Buccaneer",
+    "lookType": 712,
+    "experience": 250,
+    "image": "712.png",
+    "loot": [
+        {
+            "itemid": 2050,
+            "chance": 12228,
+            "countmax": 1,
+            "image": "2050.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 12000,
+            "countmax": 5,
+            "image": "8176.png"
+        },
+        {
+            "itemid": 8176,
+            "chance": 12000,
+            "countmax": 5,
+            "image": "8176.png"
+        }
+    ]
+}

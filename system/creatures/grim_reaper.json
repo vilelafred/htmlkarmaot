@@ -1,0 +1,26 @@
+{
+    "name": "Grim Reaper",
+    "lookType": 341,
+    "experience": 7500,
+    "image": "341.png",
+    "loot": [
+        {
+            "itemid": 2162,
+            "chance": 4850,
+            "countmax": 1,
+            "image": "2162.png"
+        },
+        {
+            "itemid": 5937,
+            "chance": 4850,
+            "countmax": 1,
+            "image": "5937.png"
+        },
+        {
+            "itemid": 5781,
+            "chance": 90,
+            "countmax": 1,
+            "image": "5781.png"
+        }
+    ]
+}
