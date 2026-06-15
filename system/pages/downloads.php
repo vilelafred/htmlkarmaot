@@ -3,17 +3,29 @@ defined('MYAAC') or die('Direct access not allowed!');
 $title = 'Downloads';
 
 $clientUrl = BASE_URL . 'downloads/KarmaOT-Client.zip';
+$changelogUrl = BASE_URL . 'downloads/CLIENT-CHANGELOG.md';
+$changelogLatestPath = BASE . 'downloads/CLIENT-CHANGELOG-latest.txt';
+$changelogLatest = is_readable($changelogLatestPath) ? file_get_contents($changelogLatestPath) : '';
 $serverIp = $config['lua']['ip'];
 $serverPort = $config['lua']['loginProtocolPort'] ?? 7171;
 ?>
 <div style="max-width:720px;margin:0 auto;padding:16px;">
 	<h1 style="text-align:center;">Karma OT Client</h1>
-	<p style="text-align:center;">Baixe o client oficial, extraia e execute <strong>otclient_gl.exe</strong> (OpenGL) ou <strong>otclient_dx.exe</strong> (DirectX).</p>
+	<p style="text-align:center;">Baixe o client oficial, extraia e execute <strong>otclient_gl.exe</strong> (OpenGL) ou <strong>otclient_dx.exe</strong> (DirectX). A pasta deve conter <strong>data.zip</strong> + executáveis + DLLs — <em>não</em> extraia o <strong>data.zip</strong> e não deixe <strong>init.lua</strong> solto.</p>
 	<p style="text-align:center;margin:24px 0;">
 		<a href="<?= $clientUrl ?>" style="display:inline-block;padding:14px 28px;background:#2d5016;color:#fff;font-weight:bold;text-decoration:none;border-radius:6px;font-size:18px;">
 			Baixar KarmaOT Client (ZIP)
 		</a>
 	</p>
+	<?php if ($changelogLatest !== ''): ?>
+	<div style="margin:24px 0;padding:16px;background:#1a1a1a;border:1px solid #444;border-radius:6px;">
+		<h2 style="margin-top:0;text-align:center;">Última atualização do client</h2>
+		<pre style="white-space:pre-wrap;font-size:13px;line-height:1.5;margin:0;color:#ddd;"><?= htmlspecialchars($changelogLatest) ?></pre>
+		<p style="text-align:center;margin:16px 0 0;">
+			<a href="<?= $changelogUrl ?>">Ver changelog completo</a>
+		</p>
+	</div>
+	<?php endif; ?>
 	<table style="width:100%;margin-top:24px;border-collapse:collapse;">
 		<tr><td style="padding:8px;border:1px solid #ccc;"><strong>IP do servidor</strong></td><td style="padding:8px;border:1px solid #ccc;"><?= htmlspecialchars($serverIp) ?></td></tr>
 		<tr><td style="padding:8px;border:1px solid #ccc;"><strong>Porta</strong></td><td style="padding:8px;border:1px solid #ccc;"><?= (int)$serverPort ?></td></tr>

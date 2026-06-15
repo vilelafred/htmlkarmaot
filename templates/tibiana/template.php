@@ -233,7 +233,7 @@ while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) {
 				   <div class="line"></div>
 					<div class="line wide"></div>
 					<span class="martel" style="font-size: 20px;"><font color="#e38b3d">Library</font></span>
-						<ul><li><a href="<?= getLink('serverinfo') ?>" style="color: #ffecdb;">Server Info</a></li><li><a href="<?= getLink('economy') ?>" style="color: #FFD700;">Economy</a></li><li><a href="<?= getLink('commands') ?>" style="color: #ffecdb;">Commands</a></li><li><a href="<?= getLink('spells') ?>" style="color: #ffecdb;">Spells</a></li><li><a href="<?= getLink('items') ?>" style="color: #ffecdb;">Items</a></li><li><a href="<?= getLink('bugbounty') ?>" style="color: #FF0000;">BUG BOUNTY</a></li></ul>
+						<ul><li><a href="<?= getLink('serverinfo') ?>" style="color: #ffecdb;">Server Info</a></li><li><a href="<?= getLink('economy') ?>" style="color: #FFD700;">Economy</a></li><li><a href="<?= getLink('tutorials') ?>" style="color: #FF4444;">Video Tutorials</a></li><li><a href="<?= getLink('commands') ?>" style="color: #ffecdb;">Commands</a></li><li><a href="<?= getLink('spells') ?>" style="color: #ffecdb;">Spells</a></li><li><a href="<?= getLink('items') ?>" style="color: #ffecdb;">Items</a></li><li><a href="<?= getLink('bugbounty') ?>" style="color: #FF0000;">BUG BOUNTY</a></li></ul>
 					<div class="line wide"></div>
 					<span class="martel" style="font-size: 20px;"><font color="#7270e0">Game Wiki</font></span>
 					<ul><li><a href="<?= getLink('guides') ?>" style="color: #e38b3d;">New Player Guide</a></li><li><a href="<?= getLink('Respawns') ?>" style="color: #FF3333;">Respawns</a></li><li><a href="<?= getLink('features') ?>" style="color:rgb(244, 252, 18);">FEATURES</a></li>

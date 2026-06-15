@@ -53,7 +53,7 @@ if(!$cache) { // update cache
     file_put_contents($cache_file . ".tmp", json_encode($cache));
     rename($cache_file . ".tmp", $cache_file);
 }
-$ret = array("url" => $files_url, "files" => array(), "keepFiles" => false);
+$ret = array("url" => $files_url, "files" => array(), "keepFiles" => true);
 foreach($cache as $file => $checksum) {
     $base = trim(explode("/", ltrim($file, "/"))[0]); 
     if(in_array($base, $files_and_dirs)) {
